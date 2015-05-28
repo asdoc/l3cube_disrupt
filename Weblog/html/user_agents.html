@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="../c3-0.4.10/htdocs/css/c3.css">
+  </head>
+  <body>
+  	<h1 align="center">User Agents Used </h1>
+    <div id="chart"></div>
+
+    <script src="../c3-0.4.10/htdocs/d3.v3.min.js" charset="utf-8"></script>
+    <script src="../c3-0.4.10/htdocs/js/c3.js"></script>
+    <script>
+      var chart = c3.generate({
+        data: {
+          columns: [
+          	["Yanga", 0.144196106705],
+["ia_archiver", 1.40591204037],
+["msnbot", 0.0720980533526],
+["Googlebot", 0.0360490266763],
+["YahooFeedSeeker", 0.937274693583],
+["SAMSUNG", 0.0720980533526],
+["Opera", 1.08147080029],
+["Jakarta", 0.0360490266763],
+["MLBot", 0.0720980533526],
+["Mozilla", 95.3496755588],
+["AdsBot", 0.0360490266763],
+["DoCoMo", 0.0720980533526],
+["WordPress", 0.432588320115],
+["User", 0.0360490266763],
+["FollowSite", 0.0360490266763],
+["Feedfetcher", 0.180245133381],
+
+          ],
+          type : 'pie',
+          onmouseover: function (d, i) { console.log("onmouseover", d, i, this); },
+          onmouseout: function (d, i) { console.log("onmouseout", d, i, this); },
+          onclick: function (d, i) { console.log("onclick", d, i, this); },
+        },
+        axis: {
+          x: {
+            label: 'Sepal.Width'
+          },
+          y: {
+            label: 'Petal.Width'
+          }
+        }
+      });
+
+    </script>
+  </body>
+</html>

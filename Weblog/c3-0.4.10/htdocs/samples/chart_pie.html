@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="c3-0.4.10/htdocs/css/c3.css">
+  </head>
+  <body>
+    <div id="chart"></div>
+
+    <script src="c3-0.4.10/htdocs/d3.v3.min.js" charset="utf-8"></script>
+    <script src="c3-0.4.10/htdocs/js/c3.js"></script>
+    <script>
+      var chart = c3.generate({
+        data: {
+          columns: [
+            ["A", 25],
+            ["B", 25],
+            ["C", 25],
+          ],
+          type : 'pie',
+          onmouseover: function (d, i) { console.log("onmouseover", d, i, this); },
+          onmouseout: function (d, i) { console.log("onmouseout", d, i, this); },
+          onclick: function (d, i) { console.log("onclick", d, i, this); },
+        },
+        axis: {
+          x: {
+            label: 'Sepal.Width'
+          },
+          y: {
+            label: 'Petal.Width'
+          }
+        }
+      });
+
+    </script>
+  </body>
+</html>

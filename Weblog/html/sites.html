@@ -1,0 +1,40 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="../c3-0.4.10/htdocs/css/c3.css">
+  </head>
+  <body>
+  	<h1 align="center">Sites Browsed</h1>
+    <div id="chart"></div>
+
+    <script src="../c3-0.4.10/htdocs/d3.v3.min.js" charset="utf-8"></script>
+    <script src="../c3-0.4.10/htdocs/js/c3.js"></script>
+    <script>
+      var chart = c3.generate({
+        data: {
+          columns: [
+          	["www.twibuzz.com", 64.0388768898],
+["www.kinneryandrajan.com", 30.3455723542],
+["kinneryandrajan.com", 0.215982721382],
+["recipewithme.com", 0.0359971202304],
+["twibuzz.com", 4.78761699064],
+["www.recipewithme.com", 0.575953923686],
+
+          ],
+          type : 'pie',
+          onmouseover: function (d, i) { console.log("onmouseover", d, i, this); },
+          onmouseout: function (d, i) { console.log("onmouseout", d, i, this); },
+          onclick: function (d, i) { console.log("onclick", d, i, this); },
+        },
+        axis: {
+          x: {
+            label: 'Sepal.Width'
+          },
+          y: {
+            label: 'Petal.Width'
+          }
+        }
+      });
+
+    </script>
+  </body>
+</html>
