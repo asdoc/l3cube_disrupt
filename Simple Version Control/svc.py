@@ -7,6 +7,8 @@ COMMIT_ADD_LINE = 0
 COMMIT_DELETE_LINE = 1
 COMMIT_ERROR = 9
 
+USAGE = "usage: svc <filename> or svc <commit_number>"
+
 def commit_type(old_file_path, new_file_path):
 	old_file_data = open(old_file_path, 'r').read().split('\n')
 	new_file_data = open(new_file_path, 'r').read().split('\n')
@@ -49,9 +51,9 @@ def commit_type(old_file_path, new_file_path):
 	else:
 		return (COMMIT_ERROR,)
 	
-def main():
+def main(argv):
 	if len(argv) != 2:
-		# print usage
+		print USAGE
 		return
 	try:
 		int(argv[1])
@@ -93,7 +95,11 @@ def main():
 
 		commit_number = int(argv[1])
 		
-		changes_file_data = open(changes_file_path, 'r').read().split('\n')[:-1]
+		try:
+			changes_file_data = open(changes_file_path, 'r').read().split('\n')[:-1]
+		except:
+			open(changes_file_path,'w').close()
+			changes_file_data = open(changes_file_path, 'r').read().split('\n')[:-1]
 
 		if commit_number < 0 or commit_number > len(changes_file_data):
 			print "Invalid commit number"
@@ -114,4 +120,4 @@ def main():
 			print commit_string[:-1]
 			
 if __name__ == '__main__':
-	main()
+	main(argv)
