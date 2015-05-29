@@ -41,7 +41,7 @@ void search(DIR* directory, char path[]) {
 		}
 		else { 
 		// if file
-			files_list << path << "/" << cur_dir -> d_name << "\n";
+			files_list << path << cur_dir -> d_name << "\n";
 			string str_filename(cur_dir->d_name);
 			string str_filepath(string(path) + str_filename);
 			count_map[str_filename].insert(str_filepath);
