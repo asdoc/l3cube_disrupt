@@ -1,0 +1,6706 @@
+
+
+Packet #1
+
+Time since epoch: 1303496629, 238845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265614
+Acknowledgement number: 0
+Flags: S
+
+
+Packet #2
+
+Time since epoch: 1303496629, 609845
+Length: 58
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798152218
+Acknowledgement number: 179265615
+Flags: SA
+
+
+Packet #3
+
+Time since epoch: 1303496629, 690845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265615
+Acknowledgement number: 2798152219
+Flags: A
+
+
+Packet #4
+
+Time since epoch: 1303496629, 700845
+Length: 215
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265615
+Acknowledgement number: 2798152219
+Flags: A
+
+
+Packet #5
+
+Time since epoch: 1303496630, 151845
+Length: 310
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798152219
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #6
+
+Time since epoch: 1303496630, 222845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798152475
+Flags: A
+
+
+Packet #7
+
+Time since epoch: 1303496630, 640845
+Length: 335
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798152475
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #8
+
+Time since epoch: 1303496630, 682845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798152756
+Flags: A
+
+
+Packet #9
+
+Time since epoch: 1303496630, 688845
+Length: 566
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798152756
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #10
+
+Time since epoch: 1303496630, 742845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798152756
+Flags: A
+
+
+Packet #11
+
+Time since epoch: 1303496630, 762845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798153268
+Flags: A
+
+
+Packet #12
+
+Time since epoch: 1303496631, 90845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798153268
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #13
+
+Time since epoch: 1303496631, 163845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798153804
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #14
+
+Time since epoch: 1303496631, 163845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798153804
+Flags: A
+
+
+Packet #15
+
+Time since epoch: 1303496631, 203845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798153804
+Flags: A
+
+
+Packet #16
+
+Time since epoch: 1303496631, 214845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798154340
+Flags: A
+
+
+Packet #17
+
+Time since epoch: 1303496631, 223845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798154340
+Flags: A
+
+
+Packet #18
+
+Time since epoch: 1303496631, 315845
+Length: 568
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798154340
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #19
+
+Time since epoch: 1303496631, 323845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798154854
+Flags: A
+
+
+Packet #20
+
+Time since epoch: 1303496631, 655845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798154854
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #21
+
+Time since epoch: 1303496631, 663845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798155390
+Flags: A
+
+
+Packet #22
+
+Time since epoch: 1303496631, 673845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798155390
+Flags: A
+
+
+Packet #23
+
+Time since epoch: 1303496632, 10845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798155390
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #24
+
+Time since epoch: 1303496632, 63845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798155926
+Flags: A
+
+
+Packet #25
+
+Time since epoch: 1303496632, 109845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798155926
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #26
+
+Time since epoch: 1303496632, 155845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798155926
+Flags: A
+
+
+Packet #27
+
+Time since epoch: 1303496632, 165845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798156462
+Flags: A
+
+
+Packet #28
+
+Time since epoch: 1303496632, 175845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798156462
+Flags: A
+
+
+Packet #29
+
+Time since epoch: 1303496632, 792845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798156462
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #30
+
+Time since epoch: 1303496632, 855845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798156998
+Flags: A
+
+
+Packet #31
+
+Time since epoch: 1303496632, 905845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798156998
+Flags: A
+
+
+Packet #32
+
+Time since epoch: 1303496633, 566845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798156998
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #33
+
+Time since epoch: 1303496633, 630845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798157534
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #34
+
+Time since epoch: 1303496633, 656845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798157534
+Flags: A
+
+
+Packet #35
+
+Time since epoch: 1303496633, 668845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798158070
+Flags: A
+
+
+Packet #36
+
+Time since epoch: 1303496633, 676845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798158070
+Flags: A
+
+
+Packet #37
+
+Time since epoch: 1303496633, 697845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798158070
+Flags: A
+
+
+Packet #38
+
+Time since epoch: 1303496634, 406845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798158070
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #39
+
+Time since epoch: 1303496634, 437845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798158606
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #40
+
+Time since epoch: 1303496634, 467845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798158606
+Flags: A
+
+
+Packet #41
+
+Time since epoch: 1303496634, 498845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798159142
+Flags: A
+
+
+Packet #42
+
+Time since epoch: 1303496634, 512845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798159142
+Flags: A
+
+
+Packet #43
+
+Time since epoch: 1303496634, 516845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798159142
+Flags: A
+
+
+Packet #44
+
+Time since epoch: 1303496635, 247845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798159142
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #45
+
+Time since epoch: 1303496635, 326845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798159678
+Flags: A
+
+
+Packet #46
+
+Time since epoch: 1303496635, 339845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798159678
+Flags: A
+
+
+Packet #47
+
+Time since epoch: 1303496636, 30845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798159678
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #48
+
+Time since epoch: 1303496636, 61845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798160214
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #49
+
+Time since epoch: 1303496636, 108845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798160214
+Flags: A
+
+
+Packet #50
+
+Time since epoch: 1303496636, 109845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798160750
+Flags: A
+
+
+Packet #51
+
+Time since epoch: 1303496636, 133845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798160750
+Flags: A
+
+
+Packet #52
+
+Time since epoch: 1303496636, 134845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798160750
+Flags: A
+
+
+Packet #53
+
+Time since epoch: 1303496636, 715845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798160750
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #54
+
+Time since epoch: 1303496636, 783845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798161286
+Flags: A
+
+
+Packet #55
+
+Time since epoch: 1303496636, 818845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798161286
+Flags: A
+
+
+Packet #56
+
+Time since epoch: 1303496636, 901845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798161286
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #57
+
+Time since epoch: 1303496636, 943845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798161822
+Flags: A
+
+
+Packet #58
+
+Time since epoch: 1303496636, 959845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798161822
+Flags: A
+
+
+Packet #59
+
+Time since epoch: 1303496637, 532845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798161822
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #60
+
+Time since epoch: 1303496637, 611845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798162358
+Flags: A
+
+
+Packet #61
+
+Time since epoch: 1303496637, 630845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798162358
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #62
+
+Time since epoch: 1303496637, 647845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798162358
+Flags: A
+
+
+Packet #63
+
+Time since epoch: 1303496637, 683845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798162894
+Flags: A
+
+
+Packet #64
+
+Time since epoch: 1303496637, 717845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798162894
+Flags: A
+
+
+Packet #65
+
+Time since epoch: 1303496638, 353845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798162894
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #66
+
+Time since epoch: 1303496638, 502845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798163430
+Flags: A
+
+
+Packet #67
+
+Time since epoch: 1303496638, 565845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798163430
+Flags: A
+
+
+Packet #68
+
+Time since epoch: 1303496639, 141845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798163430
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #69
+
+Time since epoch: 1303496639, 211845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798163966
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #70
+
+Time since epoch: 1303496639, 289845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798163966
+Flags: A
+
+
+Packet #71
+
+Time since epoch: 1303496639, 318845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798164502
+Flags: A
+
+
+Packet #72
+
+Time since epoch: 1303496639, 371845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798164502
+Flags: A
+
+
+Packet #73
+
+Time since epoch: 1303496639, 395845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798164502
+Flags: A
+
+
+Packet #74
+
+Time since epoch: 1303496639, 952845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798164502
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #75
+
+Time since epoch: 1303496640, 33845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798165038
+Flags: A
+
+
+Packet #76
+
+Time since epoch: 1303496640, 78845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798165038
+Flags: A
+
+
+Packet #77
+
+Time since epoch: 1303496640, 753845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798165038
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #78
+
+Time since epoch: 1303496640, 800845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798165574
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #79
+
+Time since epoch: 1303496640, 821845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798165574
+Flags: A
+
+
+Packet #80
+
+Time since epoch: 1303496640, 856845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798166110
+Flags: A
+
+
+Packet #81
+
+Time since epoch: 1303496640, 888845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798166110
+Flags: A
+
+
+Packet #82
+
+Time since epoch: 1303496640, 921845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798166110
+Flags: A
+
+
+Packet #83
+
+Time since epoch: 1303496641, 648845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798166110
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #84
+
+Time since epoch: 1303496641, 707845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798166646
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #85
+
+Time since epoch: 1303496641, 721845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798166646
+Flags: A
+
+
+Packet #86
+
+Time since epoch: 1303496641, 747845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798167182
+Flags: A
+
+
+Packet #87
+
+Time since epoch: 1303496641, 800845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798167182
+Flags: A
+
+
+Packet #88
+
+Time since epoch: 1303496641, 818845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798167182
+Flags: A
+
+
+Packet #89
+
+Time since epoch: 1303496642, 382845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798167182
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #90
+
+Time since epoch: 1303496642, 454845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798167718
+Flags: A
+
+
+Packet #91
+
+Time since epoch: 1303496642, 481845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798167718
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #92
+
+Time since epoch: 1303496642, 488845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798167718
+Flags: A
+
+
+Packet #93
+
+Time since epoch: 1303496642, 521845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798168254
+Flags: A
+
+
+Packet #94
+
+Time since epoch: 1303496642, 554845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798168254
+Flags: A
+
+
+Packet #95
+
+Time since epoch: 1303496643, 165845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798168254
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #96
+
+Time since epoch: 1303496643, 263845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798168790
+Flags: A
+
+
+Packet #97
+
+Time since epoch: 1303496643, 273845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798168790
+Flags: A
+
+
+Packet #98
+
+Time since epoch: 1303496643, 937845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798168790
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #99
+
+Time since epoch: 1303496644, 26845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798169326
+Flags: A
+
+
+Packet #100
+
+Time since epoch: 1303496644, 53845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798169326
+Flags: A
+
+
+Packet #101
+
+Time since epoch: 1303496644, 68845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798169326
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #102
+
+Time since epoch: 1303496644, 87845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798169862
+Flags: A
+
+
+Packet #103
+
+Time since epoch: 1303496644, 120845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798169862
+Flags: A
+
+
+Packet #104
+
+Time since epoch: 1303496644, 810845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798169862
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #105
+
+Time since epoch: 1303496644, 890845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798170398
+Flags: A
+
+
+Packet #106
+
+Time since epoch: 1303496644, 952845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798170398
+Flags: A
+
+
+Packet #107
+
+Time since epoch: 1303496644, 973845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798170398
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #108
+
+Time since epoch: 1303496645, 46845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798170934
+Flags: A
+
+
+Packet #109
+
+Time since epoch: 1303496645, 116845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798170934
+Flags: A
+
+
+Packet #110
+
+Time since epoch: 1303496645, 587845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798170934
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #111
+
+Time since epoch: 1303496645, 624845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798171470
+Flags: A
+
+
+Packet #112
+
+Time since epoch: 1303496645, 660845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798171470
+Flags: A
+
+
+Packet #113
+
+Time since epoch: 1303496646, 419845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798171470
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #114
+
+Time since epoch: 1303496646, 441845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798172006
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #115
+
+Time since epoch: 1303496646, 500845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798172006
+Flags: A
+
+
+Packet #116
+
+Time since epoch: 1303496646, 539845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798172542
+Flags: A
+
+
+Packet #117
+
+Time since epoch: 1303496646, 610845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798172542
+Flags: A
+
+
+Packet #118
+
+Time since epoch: 1303496646, 699845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798172542
+Flags: A
+
+
+Packet #119
+
+Time since epoch: 1303496647, 144845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798172542
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #120
+
+Time since epoch: 1303496647, 213845
+Length: 588
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798173078
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #121
+
+Time since epoch: 1303496647, 228845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798173078
+Flags: A
+
+
+Packet #122
+
+Time since epoch: 1303496647, 253845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798173078
+Flags: A
+
+
+Packet #123
+
+Time since epoch: 1303496647, 298845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798173612
+Flags: A
+
+
+Packet #124
+
+Time since epoch: 1303496648, 8845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798173612
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #125
+
+Time since epoch: 1303496648, 99845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798174148
+Flags: A
+
+
+Packet #126
+
+Time since epoch: 1303496648, 134845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798174148
+Flags: A
+
+
+Packet #127
+
+Time since epoch: 1303496648, 718845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798174148
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #128
+
+Time since epoch: 1303496648, 767845
+Length: 586
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798174684
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #129
+
+Time since epoch: 1303496648, 827845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798174684
+Flags: A
+
+
+Packet #130
+
+Time since epoch: 1303496648, 861845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798175216
+Flags: A
+
+
+Packet #131
+
+Time since epoch: 1303496648, 900845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798175216
+Flags: A
+
+
+Packet #132
+
+Time since epoch: 1303496649, 570845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798175216
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #133
+
+Time since epoch: 1303496649, 652845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798175752
+Flags: A
+
+
+Packet #134
+
+Time since epoch: 1303496649, 682845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798175752
+Flags: A
+
+
+Packet #135
+
+Time since epoch: 1303496649, 682845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798175752
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #136
+
+Time since epoch: 1303496649, 769845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798176288
+Flags: A
+
+
+Packet #137
+
+Time since epoch: 1303496649, 827845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798176288
+Flags: A
+
+
+Packet #138
+
+Time since epoch: 1303496650, 397845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798176288
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #139
+
+Time since epoch: 1303496650, 479845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798176824
+Flags: A
+
+
+Packet #140
+
+Time since epoch: 1303496650, 520845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798176824
+Flags: A
+
+
+Packet #141
+
+Time since epoch: 1303496651, 137845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798176824
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #142
+
+Time since epoch: 1303496651, 166845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798177360
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #143
+
+Time since epoch: 1303496651, 201845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798177360
+Flags: A
+
+
+Packet #144
+
+Time since epoch: 1303496651, 250845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798177896
+Flags: A
+
+
+Packet #145
+
+Time since epoch: 1303496651, 270845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798177896
+Flags: A
+
+
+Packet #146
+
+Time since epoch: 1303496651, 303845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798177896
+Flags: A
+
+
+Packet #147
+
+Time since epoch: 1303496651, 971845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798177896
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #148
+
+Time since epoch: 1303496652, 42845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798178432
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #149
+
+Time since epoch: 1303496652, 49845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798178432
+Flags: A
+
+
+Packet #150
+
+Time since epoch: 1303496652, 83845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798178432
+Flags: A
+
+
+Packet #151
+
+Time since epoch: 1303496652, 117845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798178968
+Flags: A
+
+
+Packet #152
+
+Time since epoch: 1303496652, 156845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798178968
+Flags: A
+
+
+Packet #153
+
+Time since epoch: 1303496652, 805845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798178968
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #154
+
+Time since epoch: 1303496652, 864845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798179504
+Flags: A
+
+
+Packet #155
+
+Time since epoch: 1303496652, 897845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798179504
+Flags: A
+
+
+Packet #156
+
+Time since epoch: 1303496653, 546845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798179504
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #157
+
+Time since epoch: 1303496653, 621845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798180040
+Flags: A
+
+
+Packet #158
+
+Time since epoch: 1303496653, 647845
+Length: 480
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798180040
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #159
+
+Time since epoch: 1303496653, 655845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798180040
+Flags: A
+
+
+Packet #160
+
+Time since epoch: 1303496653, 709845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798180466
+Flags: A
+
+
+Packet #161
+
+Time since epoch: 1303496654, 346845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798180466
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #162
+
+Time since epoch: 1303496654, 378845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798181002
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #163
+
+Time since epoch: 1303496654, 438845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798181002
+Flags: A
+
+
+Packet #164
+
+Time since epoch: 1303496654, 481845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798181538
+Flags: A
+
+
+Packet #165
+
+Time since epoch: 1303496654, 518845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798181538
+Flags: A
+
+
+Packet #166
+
+Time since epoch: 1303496654, 556845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798181538
+Flags: A
+
+
+Packet #167
+
+Time since epoch: 1303496655, 170845
+Length: 195
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798181538
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #168
+
+Time since epoch: 1303496655, 201845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798181679
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #169
+
+Time since epoch: 1303496655, 301845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798181679
+Flags: A
+
+
+Packet #170
+
+Time since epoch: 1303496655, 333845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798182215
+Flags: A
+
+
+Packet #171
+
+Time since epoch: 1303496655, 367845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798182215
+Flags: A
+
+
+Packet #172
+
+Time since epoch: 1303496655, 968845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798182215
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #173
+
+Time since epoch: 1303496655, 990845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798182751
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #174
+
+Time since epoch: 1303496656, 22845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798182751
+Flags: A
+
+
+Packet #175
+
+Time since epoch: 1303496656, 55845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798183287
+Flags: A
+
+
+Packet #176
+
+Time since epoch: 1303496656, 73845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798183287
+Flags: A
+
+
+Packet #177
+
+Time since epoch: 1303496656, 106845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798183287
+Flags: A
+
+
+Packet #178
+
+Time since epoch: 1303496656, 750845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798183287
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #179
+
+Time since epoch: 1303496656, 800845
+Length: 430
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798183823
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #180
+
+Time since epoch: 1303496656, 843845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798183823
+Flags: A
+
+
+Packet #181
+
+Time since epoch: 1303496656, 883845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798184199
+Flags: A
+
+
+Packet #182
+
+Time since epoch: 1303496656, 910845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798184199
+Flags: A
+
+
+Packet #183
+
+Time since epoch: 1303496657, 539845
+Length: 94
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798184199
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #184
+
+Time since epoch: 1303496657, 576845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798184239
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #185
+
+Time since epoch: 1303496657, 610845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798184239
+Flags: A
+
+
+Packet #186
+
+Time since epoch: 1303496657, 655845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798184775
+Flags: A
+
+
+Packet #187
+
+Time since epoch: 1303496657, 677845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798184775
+Flags: A
+
+
+Packet #188
+
+Time since epoch: 1303496658, 349845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798184775
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #189
+
+Time since epoch: 1303496658, 379845
+Length: 560
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798185311
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #190
+
+Time since epoch: 1303496658, 439845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798185311
+Flags: A
+
+
+Packet #191
+
+Time since epoch: 1303496658, 474845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798185817
+Flags: A
+
+
+Packet #192
+
+Time since epoch: 1303496658, 508845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798185817
+Flags: A
+
+
+Packet #193
+
+Time since epoch: 1303496659, 155845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798185817
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #194
+
+Time since epoch: 1303496659, 195845
+Length: 431
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798186353
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #195
+
+Time since epoch: 1303496659, 256845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798186353
+Flags: A
+
+
+Packet #196
+
+Time since epoch: 1303496659, 281845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798186730
+Flags: A
+
+
+Packet #197
+
+Time since epoch: 1303496659, 317845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798186730
+Flags: A
+
+
+Packet #198
+
+Time since epoch: 1303496659, 972845
+Length: 123
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798186730
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #199
+
+Time since epoch: 1303496660, 98845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798186799
+Flags: A
+
+
+Packet #200
+
+Time since epoch: 1303496660, 135845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798186799
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #201
+
+Time since epoch: 1303496660, 279845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798187335
+Flags: A
+
+
+Packet #202
+
+Time since epoch: 1303496660, 324845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798187335
+Flags: A
+
+
+Packet #203
+
+Time since epoch: 1303496660, 824845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798187335
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #204
+
+Time since epoch: 1303496660, 909845
+Length: 561
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798187871
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #205
+
+Time since epoch: 1303496660, 936845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798187871
+Flags: A
+
+
+Packet #206
+
+Time since epoch: 1303496660, 949845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798187871
+Flags: A
+
+
+Packet #207
+
+Time since epoch: 1303496661, 845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798188378
+Flags: A
+
+
+Packet #208
+
+Time since epoch: 1303496661, 524845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798188378
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #209
+
+Time since epoch: 1303496661, 565845
+Length: 431
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798188914
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #210
+
+Time since epoch: 1303496661, 648845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798188914
+Flags: A
+
+
+Packet #211
+
+Time since epoch: 1303496661, 684845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798189291
+Flags: A
+
+
+Packet #212
+
+Time since epoch: 1303496661, 718845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798189291
+Flags: A
+
+
+Packet #213
+
+Time since epoch: 1303496662, 384845
+Length: 122
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798189291
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #214
+
+Time since epoch: 1303496662, 461845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798189359
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #215
+
+Time since epoch: 1303496662, 478845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798189359
+Flags: A
+
+
+Packet #216
+
+Time since epoch: 1303496662, 537845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798189895
+Flags: A
+
+
+Packet #217
+
+Time since epoch: 1303496662, 573845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798189895
+Flags: A
+
+
+Packet #218
+
+Time since epoch: 1303496662, 589845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798189895
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #219
+
+Time since epoch: 1303496662, 608845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798190431
+Flags: A
+
+
+Packet #220
+
+Time since epoch: 1303496662, 643845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798190431
+Flags: A
+
+
+Packet #221
+
+Time since epoch: 1303496663, 139845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798190431
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #222
+
+Time since epoch: 1303496663, 237845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798190967
+Flags: A
+
+
+Packet #223
+
+Time since epoch: 1303496663, 263845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798190967
+Flags: A
+
+
+Packet #224
+
+Time since epoch: 1303496664, 191845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798190967
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #225
+
+Time since epoch: 1303496664, 264845
+Length: 431
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798191503
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #226
+
+Time since epoch: 1303496664, 299845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798191503
+Flags: A
+
+
+Packet #227
+
+Time since epoch: 1303496664, 349845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798191880
+Flags: A
+
+
+Packet #228
+
+Time since epoch: 1303496664, 374845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798191880
+Flags: A
+
+
+Packet #229
+
+Time since epoch: 1303496664, 829845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798191880
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #230
+
+Time since epoch: 1303496664, 843845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798192416
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #231
+
+Time since epoch: 1303496664, 898845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798192416
+Flags: A
+
+
+Packet #232
+
+Time since epoch: 1303496664, 929845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798192952
+Flags: A
+
+
+Packet #233
+
+Time since epoch: 1303496664, 962845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798192952
+Flags: A
+
+
+Packet #234
+
+Time since epoch: 1303496664, 996845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798192952
+Flags: A
+
+
+Packet #235
+
+Time since epoch: 1303496665, 533845
+Length: 301
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798192952
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #236
+
+Time since epoch: 1303496665, 543845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798193199
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #237
+
+Time since epoch: 1303496665, 580845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798193199
+Flags: A
+
+
+Packet #238
+
+Time since epoch: 1303496665, 613845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798193735
+Flags: A
+
+
+Packet #239
+
+Time since epoch: 1303496665, 646845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798193735
+Flags: A
+
+
+Packet #240
+
+Time since epoch: 1303496666, 332845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798193735
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #241
+
+Time since epoch: 1303496666, 342845
+Length: 562
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798194271
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #242
+
+Time since epoch: 1303496666, 403845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798194271
+Flags: A
+
+
+Packet #243
+
+Time since epoch: 1303496666, 439845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798194779
+Flags: A
+
+
+Packet #244
+
+Time since epoch: 1303496666, 477845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798194779
+Flags: A
+
+
+Packet #245
+
+Time since epoch: 1303496667, 113845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798194779
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #246
+
+Time since epoch: 1303496667, 192845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798195315
+Flags: A
+
+
+Packet #247
+
+Time since epoch: 1303496667, 209845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798195315
+Flags: A
+
+
+Packet #248
+
+Time since epoch: 1303496667, 909845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798195315
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #249
+
+Time since epoch: 1303496667, 919845
+Length: 562
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798195851
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #250
+
+Time since epoch: 1303496667, 969845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798195851
+Flags: A
+
+
+Packet #251
+
+Time since epoch: 1303496668, 3845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798196359
+Flags: A
+
+
+Packet #252
+
+Time since epoch: 1303496668, 42845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798196359
+Flags: A
+
+
+Packet #253
+
+Time since epoch: 1303496668, 739845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798196359
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #254
+
+Time since epoch: 1303496668, 750845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798196895
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #255
+
+Time since epoch: 1303496668, 795845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798196895
+Flags: A
+
+
+Packet #256
+
+Time since epoch: 1303496668, 830845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798197431
+Flags: A
+
+
+Packet #257
+
+Time since epoch: 1303496668, 866845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798197431
+Flags: A
+
+
+Packet #258
+
+Time since epoch: 1303496668, 901845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798197431
+Flags: A
+
+
+Packet #259
+
+Time since epoch: 1303496669, 533845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798197431
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #260
+
+Time since epoch: 1303496669, 601845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798197967
+Flags: A
+
+
+Packet #261
+
+Time since epoch: 1303496669, 634845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798197967
+Flags: A
+
+
+Packet #262
+
+Time since epoch: 1303496670, 361845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798197967
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #263
+
+Time since epoch: 1303496670, 371845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798198503
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #264
+
+Time since epoch: 1303496670, 409845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798198503
+Flags: A
+
+
+Packet #265
+
+Time since epoch: 1303496670, 428845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798199039
+Flags: A
+
+
+Packet #266
+
+Time since epoch: 1303496670, 455845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798199039
+Flags: A
+
+
+Packet #267
+
+Time since epoch: 1303496670, 488845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798199039
+Flags: A
+
+
+Packet #268
+
+Time since epoch: 1303496671, 105845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798199039
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #269
+
+Time since epoch: 1303496671, 115845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798199575
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #270
+
+Time since epoch: 1303496671, 188845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798199575
+Flags: A
+
+
+Packet #271
+
+Time since epoch: 1303496671, 224845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798200111
+Flags: A
+
+
+Packet #272
+
+Time since epoch: 1303496671, 258845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798200111
+Flags: A
+
+
+Packet #273
+
+Time since epoch: 1303496671, 291845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798200111
+Flags: A
+
+
+Packet #274
+
+Time since epoch: 1303496671, 915845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798200111
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #275
+
+Time since epoch: 1303496671, 925845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798200647
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #276
+
+Time since epoch: 1303496671, 994845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798200647
+Flags: A
+
+
+Packet #277
+
+Time since epoch: 1303496672, 28845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798201183
+Flags: A
+
+
+Packet #278
+
+Time since epoch: 1303496672, 61845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798201183
+Flags: A
+
+
+Packet #279
+
+Time since epoch: 1303496672, 95845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798201183
+Flags: A
+
+
+Packet #280
+
+Time since epoch: 1303496672, 733845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798201183
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #281
+
+Time since epoch: 1303496672, 798845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798201719
+Flags: A
+
+
+Packet #282
+
+Time since epoch: 1303496672, 847845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798201719
+Flags: A
+
+
+Packet #283
+
+Time since epoch: 1303496673, 512845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798201719
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #284
+
+Time since epoch: 1303496673, 522845
+Length: 554
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798202255
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #285
+
+Time since epoch: 1303496673, 599845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798202255
+Flags: A
+
+
+Packet #286
+
+Time since epoch: 1303496673, 642845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798202755
+Flags: A
+
+
+Packet #287
+
+Time since epoch: 1303496673, 669845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798202755
+Flags: A
+
+
+Packet #288
+
+Time since epoch: 1303496674, 334845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798202755
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #289
+
+Time since epoch: 1303496674, 344845
+Length: 572
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798203291
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #290
+
+Time since epoch: 1303496674, 389845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798203291
+Flags: A
+
+
+Packet #291
+
+Time since epoch: 1303496674, 420845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798203809
+Flags: A
+
+
+Packet #292
+
+Time since epoch: 1303496674, 453845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798203809
+Flags: A
+
+
+Packet #293
+
+Time since epoch: 1303496675, 108845
+Length: 196
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798203809
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #294
+
+Time since epoch: 1303496675, 118845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798203951
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #295
+
+Time since epoch: 1303496675, 174845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798203951
+Flags: A
+
+
+Packet #296
+
+Time since epoch: 1303496675, 215845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798204487
+Flags: A
+
+
+Packet #297
+
+Time since epoch: 1303496675, 295845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798204487
+Flags: A
+
+
+Packet #298
+
+Time since epoch: 1303496675, 327845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798204487
+Flags: A
+
+
+Packet #299
+
+Time since epoch: 1303496676, 11845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798204487
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #300
+
+Time since epoch: 1303496676, 42845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798205023
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #301
+
+Time since epoch: 1303496676, 103845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798205023
+Flags: A
+
+
+Packet #302
+
+Time since epoch: 1303496676, 117845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798205559
+Flags: A
+
+
+Packet #303
+
+Time since epoch: 1303496676, 157845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798205559
+Flags: A
+
+
+Packet #304
+
+Time since epoch: 1303496676, 194845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798205559
+Flags: A
+
+
+Packet #305
+
+Time since epoch: 1303496676, 784845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798205559
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #306
+
+Time since epoch: 1303496676, 838845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798206095
+Flags: A
+
+
+Packet #307
+
+Time since epoch: 1303496676, 907845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798206095
+Flags: A
+
+
+Packet #308
+
+Time since epoch: 1303496677, 619845
+Length: 540
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798206095
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #309
+
+Time since epoch: 1303496677, 689845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798206581
+Flags: A
+
+
+Packet #310
+
+Time since epoch: 1303496679, 193845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798206581
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #311
+
+Time since epoch: 1303496679, 244845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798207117
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #312
+
+Time since epoch: 1303496679, 300845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798207117
+Flags: A
+
+
+Packet #313
+
+Time since epoch: 1303496679, 338845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798207653
+Flags: A
+
+
+Packet #314
+
+Time since epoch: 1303496679, 365845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798207653
+Flags: A
+
+
+Packet #315
+
+Time since epoch: 1303496679, 409845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798207653
+Flags: A
+
+
+Packet #316
+
+Time since epoch: 1303496680, 27845
+Length: 490
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798207653
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #317
+
+Time since epoch: 1303496680, 76845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798208089
+Flags: A
+
+
+Packet #318
+
+Time since epoch: 1303496681, 695845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798208089
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #319
+
+Time since epoch: 1303496681, 742845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798208625
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #320
+
+Time since epoch: 1303496681, 785845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798208625
+Flags: A
+
+
+Packet #321
+
+Time since epoch: 1303496681, 886845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798209161
+Flags: A
+
+
+Packet #322
+
+Time since epoch: 1303496681, 887845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798209161
+Flags: A
+
+
+Packet #323
+
+Time since epoch: 1303496681, 892845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798209161
+Flags: A
+
+
+Packet #324
+
+Time since epoch: 1303496682, 392845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798209161
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #325
+
+Time since epoch: 1303496682, 461845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798209697
+Flags: A
+
+
+Packet #326
+
+Time since epoch: 1303496682, 496845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798209697
+Flags: A
+
+
+Packet #327
+
+Time since epoch: 1303496683, 309845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798209697
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #328
+
+Time since epoch: 1303496683, 360845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798210233
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #329
+
+Time since epoch: 1303496683, 411845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798210233
+Flags: A
+
+
+Packet #330
+
+Time since epoch: 1303496683, 444845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798210769
+Flags: A
+
+
+Packet #331
+
+Time since epoch: 1303496683, 476845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798210769
+Flags: A
+
+
+Packet #332
+
+Time since epoch: 1303496683, 515845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798210769
+Flags: A
+
+
+Packet #333
+
+Time since epoch: 1303496684, 61845
+Length: 148
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798210769
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #334
+
+Time since epoch: 1303496684, 125845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798210863
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #335
+
+Time since epoch: 1303496684, 133845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798210863
+Flags: A
+
+
+Packet #336
+
+Time since epoch: 1303496684, 199845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798211399
+Flags: A
+
+
+Packet #337
+
+Time since epoch: 1303496684, 236845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798211399
+Flags: A
+
+
+Packet #338
+
+Time since epoch: 1303496684, 735845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798211399
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #339
+
+Time since epoch: 1303496684, 799845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798211935
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #340
+
+Time since epoch: 1303496684, 817845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798211935
+Flags: A
+
+
+Packet #341
+
+Time since epoch: 1303496684, 849845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798211935
+Flags: A
+
+
+Packet #342
+
+Time since epoch: 1303496684, 883845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798212471
+Flags: A
+
+
+Packet #343
+
+Time since epoch: 1303496684, 917845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798212471
+Flags: A
+
+
+Packet #344
+
+Time since epoch: 1303496686, 400845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798212471
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #345
+
+Time since epoch: 1303496686, 464845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798213007
+Flags: A
+
+
+Packet #346
+
+Time since epoch: 1303496686, 503845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798213007
+Flags: A
+
+
+Packet #347
+
+Time since epoch: 1303496687, 186845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798213007
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #348
+
+Time since epoch: 1303496687, 305845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798213543
+Flags: A
+
+
+Packet #349
+
+Time since epoch: 1303496687, 346845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798213543
+Flags: A
+
+
+Packet #350
+
+Time since epoch: 1303496688, 865845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798213543
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #351
+
+Time since epoch: 1303496688, 964845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798214079
+Flags: A
+
+
+Packet #352
+
+Time since epoch: 1303496688, 999845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798214079
+Flags: A
+
+
+Packet #353
+
+Time since epoch: 1303496689, 703845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798214079
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #354
+
+Time since epoch: 1303496689, 792845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798214615
+Flags: A
+
+
+Packet #355
+
+Time since epoch: 1303496689, 830845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798214615
+Flags: A
+
+
+Packet #356
+
+Time since epoch: 1303496691, 156845
+Length: 142
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798214615
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #357
+
+Time since epoch: 1303496691, 219845
+Length: 511
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798214703
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #358
+
+Time since epoch: 1303496691, 253845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798214703
+Flags: A
+
+
+Packet #359
+
+Time since epoch: 1303496691, 327845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798215160
+Flags: A
+
+
+Packet #360
+
+Time since epoch: 1303496691, 365845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798215160
+Flags: A
+
+
+Packet #361
+
+Time since epoch: 1303496692, 753845
+Length: 109
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798215160
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #362
+
+Time since epoch: 1303496692, 818845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798215215
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #363
+
+Time since epoch: 1303496692, 832845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798215215
+Flags: A
+
+
+Packet #364
+
+Time since epoch: 1303496692, 859845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798215751
+Flags: A
+
+
+Packet #365
+
+Time since epoch: 1303496692, 901845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798215751
+Flags: A
+
+
+Packet #366
+
+Time since epoch: 1303496693, 604845
+Length: 553
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798215751
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #367
+
+Time since epoch: 1303496693, 678845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798216250
+Flags: A
+
+
+Packet #368
+
+Time since epoch: 1303496695, 305845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798216250
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #369
+
+Time since epoch: 1303496695, 416845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798216786
+Flags: A
+
+
+Packet #370
+
+Time since epoch: 1303496695, 454845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798216786
+Flags: A
+
+
+Packet #371
+
+Time since epoch: 1303496696, 146845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798216786
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #372
+
+Time since epoch: 1303496696, 202845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798217322
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #373
+
+Time since epoch: 1303496696, 259845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798217322
+Flags: A
+
+
+Packet #374
+
+Time since epoch: 1303496696, 297845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798217858
+Flags: A
+
+
+Packet #375
+
+Time since epoch: 1303496696, 337845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798217858
+Flags: A
+
+
+Packet #376
+
+Time since epoch: 1303496696, 373845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798217858
+Flags: A
+
+
+Packet #377
+
+Time since epoch: 1303496697, 557845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798217858
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #378
+
+Time since epoch: 1303496697, 578845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798218394
+Flags: A
+
+
+Packet #379
+
+Time since epoch: 1303496697, 616845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798218394
+Flags: A
+
+
+Packet #380
+
+Time since epoch: 1303496699, 967845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798218394
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #381
+
+Time since epoch: 1303496700, 17845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798218930
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #382
+
+Time since epoch: 1303496700, 93845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798218930
+Flags: A
+
+
+Packet #383
+
+Time since epoch: 1303496700, 126845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798219466
+Flags: A
+
+
+Packet #384
+
+Time since epoch: 1303496700, 159845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798219466
+Flags: A
+
+
+Packet #385
+
+Time since epoch: 1303496700, 193845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798219466
+Flags: A
+
+
+Packet #386
+
+Time since epoch: 1303496700, 761845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798219466
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #387
+
+Time since epoch: 1303496700, 814845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798220002
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #388
+
+Time since epoch: 1303496700, 861845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798220002
+Flags: A
+
+
+Packet #389
+
+Time since epoch: 1303496700, 895845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798220538
+Flags: A
+
+
+Packet #390
+
+Time since epoch: 1303496700, 932845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798220538
+Flags: A
+
+
+Packet #391
+
+Time since epoch: 1303496700, 970845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798220538
+Flags: A
+
+
+Packet #392
+
+Time since epoch: 1303496701, 584845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798220538
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #393
+
+Time since epoch: 1303496701, 658845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798221074
+Flags: A
+
+
+Packet #394
+
+Time since epoch: 1303496701, 678845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798221074
+Flags: A
+
+
+Packet #395
+
+Time since epoch: 1303496704, 818845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798221074
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #396
+
+Time since epoch: 1303496704, 877845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798221610
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #397
+
+Time since epoch: 1303496704, 890845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798221610
+Flags: A
+
+
+Packet #398
+
+Time since epoch: 1303496704, 926845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798222146
+Flags: A
+
+
+Packet #399
+
+Time since epoch: 1303496704, 968845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798222146
+Flags: A
+
+
+Packet #400
+
+Time since epoch: 1303496705, 11845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798222146
+Flags: A
+
+
+Packet #401
+
+Time since epoch: 1303496705, 588845
+Length: 587
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798222146
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #402
+
+Time since epoch: 1303496705, 661845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798222679
+Flags: A
+
+
+Packet #403
+
+Time since epoch: 1303496707, 166845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798222679
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #404
+
+Time since epoch: 1303496707, 249845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798223215
+Flags: A
+
+
+Packet #405
+
+Time since epoch: 1303496707, 291845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798223215
+Flags: A
+
+
+Packet #406
+
+Time since epoch: 1303496708, 18845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798223215
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #407
+
+Time since epoch: 1303496708, 69845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798223751
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #408
+
+Time since epoch: 1303496708, 131845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798223751
+Flags: A
+
+
+Packet #409
+
+Time since epoch: 1303496708, 175845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798224287
+Flags: A
+
+
+Packet #410
+
+Time since epoch: 1303496708, 231845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798224287
+Flags: A
+
+
+Packet #411
+
+Time since epoch: 1303496708, 265845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798224287
+Flags: A
+
+
+Packet #412
+
+Time since epoch: 1303496708, 821845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798224287
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #413
+
+Time since epoch: 1303496708, 881845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798224823
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #414
+
+Time since epoch: 1303496708, 890845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798224823
+Flags: A
+
+
+Packet #415
+
+Time since epoch: 1303496708, 917845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798224823
+Flags: A
+
+
+Packet #416
+
+Time since epoch: 1303496708, 970845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798225359
+Flags: A
+
+
+Packet #417
+
+Time since epoch: 1303496708, 995845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798225359
+Flags: A
+
+
+Packet #418
+
+Time since epoch: 1303496709, 589845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798225359
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #419
+
+Time since epoch: 1303496709, 668845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798225895
+Flags: A
+
+
+Packet #420
+
+Time since epoch: 1303496709, 710845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798225895
+Flags: A
+
+
+Packet #421
+
+Time since epoch: 1303496710, 367845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798225895
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #422
+
+Time since epoch: 1303496710, 420845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798226431
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #423
+
+Time since epoch: 1303496710, 482845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798226431
+Flags: A
+
+
+Packet #424
+
+Time since epoch: 1303496710, 519845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798226967
+Flags: A
+
+
+Packet #425
+
+Time since epoch: 1303496710, 562845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798226967
+Flags: A
+
+
+Packet #426
+
+Time since epoch: 1303496710, 610845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798226967
+Flags: A
+
+
+Packet #427
+
+Time since epoch: 1303496711, 160845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798226967
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #428
+
+Time since epoch: 1303496711, 221845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798227503
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #429
+
+Time since epoch: 1303496711, 232845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798227503
+Flags: A
+
+
+Packet #430
+
+Time since epoch: 1303496711, 300845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798227503
+Flags: A
+
+
+Packet #431
+
+Time since epoch: 1303496711, 335845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798228039
+Flags: A
+
+
+Packet #432
+
+Time since epoch: 1303496711, 376845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798228039
+Flags: A
+
+
+Packet #433
+
+Time since epoch: 1303496711, 958845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798228039
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #434
+
+Time since epoch: 1303496712, 50845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798228575
+Flags: A
+
+
+Packet #435
+
+Time since epoch: 1303496712, 89845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798228575
+Flags: A
+
+
+Packet #436
+
+Time since epoch: 1303496712, 774845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798228575
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #437
+
+Time since epoch: 1303496712, 864845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798229111
+Flags: A
+
+
+Packet #438
+
+Time since epoch: 1303496712, 881845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798229111
+Flags: A
+
+
+Packet #439
+
+Time since epoch: 1303496714, 367845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798229111
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #440
+
+Time since epoch: 1303496714, 417845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798229647
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #441
+
+Time since epoch: 1303496714, 483845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798229647
+Flags: A
+
+
+Packet #442
+
+Time since epoch: 1303496714, 516845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798230183
+Flags: A
+
+
+Packet #443
+
+Time since epoch: 1303496714, 549845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798230183
+Flags: A
+
+
+Packet #444
+
+Time since epoch: 1303496714, 584845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798230183
+Flags: A
+
+
+Packet #445
+
+Time since epoch: 1303496715, 173845
+Length: 190
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798230183
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #446
+
+Time since epoch: 1303496715, 231845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798230319
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #447
+
+Time since epoch: 1303496715, 242845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798230319
+Flags: A
+
+
+Packet #448
+
+Time since epoch: 1303496715, 281845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798230855
+Flags: A
+
+
+Packet #449
+
+Time since epoch: 1303496715, 315845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798230855
+Flags: A
+
+
+Packet #450
+
+Time since epoch: 1303496716, 20845
+Length: 456
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798230855
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #451
+
+Time since epoch: 1303496716, 147845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798231257
+Flags: A
+
+
+Packet #452
+
+Time since epoch: 1303496717, 673845
+Length: 524
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798231257
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #453
+
+Time since epoch: 1303496717, 742845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798231727
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #454
+
+Time since epoch: 1303496717, 788845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798231727
+Flags: A
+
+
+Packet #455
+
+Time since epoch: 1303496717, 837845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798232263
+Flags: A
+
+
+Packet #456
+
+Time since epoch: 1303496717, 859845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798232263
+Flags: A
+
+
+Packet #457
+
+Time since epoch: 1303496717, 902845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798232263
+Flags: A
+
+
+Packet #458
+
+Time since epoch: 1303496718, 424845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798232263
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #459
+
+Time since epoch: 1303496718, 525845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798232799
+Flags: A
+
+
+Packet #460
+
+Time since epoch: 1303496718, 560845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798232799
+Flags: A
+
+
+Packet #461
+
+Time since epoch: 1303496719, 961845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798232799
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #462
+
+Time since epoch: 1303496720, 41845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798233335
+Flags: A
+
+
+Packet #463
+
+Time since epoch: 1303496720, 87845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798233335
+Flags: A
+
+
+Packet #464
+
+Time since epoch: 1303496720, 771845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798233335
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #465
+
+Time since epoch: 1303496720, 821845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798233871
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #466
+
+Time since epoch: 1303496720, 842845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798233871
+Flags: A
+
+
+Packet #467
+
+Time since epoch: 1303496720, 875845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798234407
+Flags: A
+
+
+Packet #468
+
+Time since epoch: 1303496720, 908845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798234407
+Flags: A
+
+
+Packet #469
+
+Time since epoch: 1303496720, 942845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798234407
+Flags: A
+
+
+Packet #470
+
+Time since epoch: 1303496722, 388845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798234407
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #471
+
+Time since epoch: 1303496722, 423845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798234943
+Flags: A
+
+
+Packet #472
+
+Time since epoch: 1303496722, 456845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798234943
+Flags: A
+
+
+Packet #473
+
+Time since epoch: 1303496723, 173845
+Length: 590
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798234943
+Acknowledgement number: 179265776
+Flags: A
+
+
+Packet #474
+
+Time since epoch: 1303496723, 222845
+Length: 192
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798235479
+Acknowledgement number: 179265776
+Flags: FPA
+
+
+Packet #475
+
+Time since epoch: 1303496723, 248845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798235479
+Flags: A
+
+
+Packet #476
+
+Time since epoch: 1303496723, 281845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798235618
+Flags: A
+
+
+Packet #477
+
+Time since epoch: 1303496723, 314845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798235618
+Flags: A
+
+
+Packet #478
+
+Time since epoch: 1303496723, 341845
+Length: 60
+TCP/IP header
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Source port: 46557
+Destination port: 80
+Sequence number: 179265776
+Acknowledgement number: 2798235618
+Flags: FPA
+
+
+Packet #479
+
+Time since epoch: 1303496723, 923845
+Length: 54
+TCP/IP header
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Source port: 80
+Destination port: 46557
+Sequence number: 2798235618
+Acknowledgement number: 179265777
+Flags: A

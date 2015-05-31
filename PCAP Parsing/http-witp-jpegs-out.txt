@@ -1,0 +1,6762 @@
+
+
+Packet #1
+
+Time since epoch: 1100903354, 159269
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3177
+Destination port: 80
+Sequence number: 882639998
+Acknowledgement number: 0
+Flags: S
+
+
+Packet #2
+
+Time since epoch: 1100903354, 159920
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3177
+Sequence number: 926647801
+Acknowledgement number: 882639999
+Flags: SA
+
+
+Packet #3
+
+Time since epoch: 1100903354, 159966
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3177
+Destination port: 80
+Sequence number: 882639999
+Acknowledgement number: 926647802
+Flags: A
+
+
+Packet #4
+
+Time since epoch: 1100903354, 172938
+Length: 530
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3177
+Destination port: 80
+Sequence number: 882639999
+Acknowledgement number: 926647802
+Flags: PA
+
+
+Packet #5
+
+Time since epoch: 1100903354, 173999
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3177
+Sequence number: 926647802
+Acknowledgement number: 882640475
+Flags: A
+
+
+Packet #6
+
+Time since epoch: 1100903354, 191558
+Length: 489
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3177
+Sequence number: 926647802
+Acknowledgement number: 882640475
+Flags: PA
+
+
+Packet #7
+
+Time since epoch: 1100903354, 191615
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3177
+Sequence number: 926648237
+Acknowledgement number: 882640475
+Flags: FA
+
+
+Packet #8
+
+Time since epoch: 1100903354, 191676
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3177
+Destination port: 80
+Sequence number: 882640475
+Acknowledgement number: 926648238
+Flags: A
+
+
+Packet #9
+
+Time since epoch: 1100903354, 281052
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.11.237
+Source port: 3179
+Destination port: 80
+Sequence number: 882728124
+Acknowledgement number: 0
+Flags: S
+
+
+Packet #10
+
+Time since epoch: 1100903354, 295571
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3177
+Destination port: 80
+Sequence number: 882640475
+Acknowledgement number: 926648238
+Flags: FA
+
+
+Packet #11
+
+Time since epoch: 1100903354, 296049
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3177
+Sequence number: 926648238
+Acknowledgement number: 882640476
+Flags: A
+
+
+Packet #12
+
+Time since epoch: 1100903354, 523524
+Length: 62
+TCP/IP header
+Source IP: 209.225.11.237
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3179
+Sequence number: 8061
+Acknowledgement number: 882728125
+Flags: SA
+
+
+Packet #13
+
+Time since epoch: 1100903354, 523591
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.11.237
+Source port: 3179
+Destination port: 80
+Sequence number: 882728125
+Acknowledgement number: 8062
+Flags: A
+
+
+Packet #14
+
+Time since epoch: 1100903354, 524089
+Length: 614
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.11.237
+Source port: 3179
+Destination port: 80
+Sequence number: 882728125
+Acknowledgement number: 8062
+Flags: PA
+
+
+Packet #15
+
+Time since epoch: 1100903354, 809131
+Length: 60
+TCP/IP header
+Source IP: 209.225.11.237
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3179
+Sequence number: 8062
+Acknowledgement number: 882728685
+Flags: A
+
+
+Packet #16
+
+Time since epoch: 1100903354, 809218
+Length: 487
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.11.237
+Source port: 3179
+Destination port: 80
+Sequence number: 882728685
+Acknowledgement number: 8062
+Flags: PA
+
+
+Packet #17
+
+Time since epoch: 1100903355, 83484
+Length: 60
+TCP/IP header
+Source IP: 209.225.11.237
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3179
+Sequence number: 8062
+Acknowledgement number: 882729118
+Flags: A
+
+
+Packet #18
+
+Time since epoch: 1100903355, 113119
+Length: 770
+TCP/IP header
+Source IP: 209.225.11.237
+Destination IP: 10.1.1.101
+Source port: 29812
+Destination port: 28730
+Sequence number: 791637872
+Acknowledgement number: 1701994801
+Flags: SFAU
+
+
+Packet #19
+
+Time since epoch: 1100903355, 113909
+Length: 60
+TCP/IP header
+Source IP: 209.225.11.237
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3179
+Sequence number: 10741
+Acknowledgement number: 882729118
+Flags: FPA
+
+
+Packet #20
+
+Time since epoch: 1100903355, 113948
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.11.237
+Source port: 3179
+Destination port: 80
+Sequence number: 882729118
+Acknowledgement number: 9522
+Flags: A
+
+
+Packet #21
+
+Time since epoch: 1100903355, 137322
+Length: 1273
+TCP/IP header
+Source IP: 209.225.11.237
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3179
+Sequence number: 9522
+Acknowledgement number: 882729118
+Flags: PA
+
+
+Packet #22
+
+Time since epoch: 1100903355, 137389
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.11.237
+Source port: 3179
+Destination port: 80
+Sequence number: 882729118
+Acknowledgement number: 10747
+Flags: A
+
+
+Packet #23
+
+Time since epoch: 1100903355, 358103
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.11.237
+Source port: 3179
+Destination port: 80
+Sequence number: 882729118
+Acknowledgement number: 10747
+Flags: FA
+
+
+Packet #24
+
+Time since epoch: 1100903355, 358686
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3183
+Destination port: 80
+Sequence number: 883038876
+Acknowledgement number: 0
+Flags: S
+
+
+Packet #25
+
+Time since epoch: 1100903355, 359027
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3184
+Destination port: 80
+Sequence number: 883089667
+Acknowledgement number: 0
+Flags: S
+
+
+Packet #26
+
+Time since epoch: 1100903355, 385198
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3185
+Destination port: 80
+Sequence number: 883125757
+Acknowledgement number: 0
+Flags: S
+
+
+Packet #27
+
+Time since epoch: 1100903355, 421571
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3187
+Destination port: 80
+Sequence number: 883193596
+Acknowledgement number: 0
+Flags: S
+
+
+Packet #28
+
+Time since epoch: 1100903355, 434544
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3188
+Destination port: 80
+Sequence number: 883230939
+Acknowledgement number: 0
+Flags: S
+
+
+Packet #29
+
+Time since epoch: 1100903355, 435025
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3188
+Sequence number: 933357062
+Acknowledgement number: 883230940
+Flags: SA
+
+
+Packet #30
+
+Time since epoch: 1100903355, 435072
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3188
+Destination port: 80
+Sequence number: 883230940
+Acknowledgement number: 933357063
+Flags: A
+
+
+Packet #31
+
+Time since epoch: 1100903355, 443254
+Length: 628
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3188
+Destination port: 80
+Sequence number: 883230940
+Acknowledgement number: 933357063
+Flags: PA
+
+
+Packet #32
+
+Time since epoch: 1100903355, 444461
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3188
+Sequence number: 933357063
+Acknowledgement number: 883231514
+Flags: A
+
+
+Packet #33
+
+Time since epoch: 1100903355, 447676
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3188
+Sequence number: 933357063
+Acknowledgement number: 883231514
+Flags: A
+
+
+Packet #34
+
+Time since epoch: 1100903355, 448932
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3188
+Sequence number: 933358523
+Acknowledgement number: 883231514
+Flags: A
+
+
+Packet #35
+
+Time since epoch: 1100903355, 448997
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3188
+Destination port: 80
+Sequence number: 883231514
+Acknowledgement number: 933359983
+Flags: A
+
+
+Packet #36
+
+Time since epoch: 1100903355, 451401
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3188
+Sequence number: 933359983
+Acknowledgement number: 883231514
+Flags: A
+
+
+Packet #37
+
+Time since epoch: 1100903355, 451528
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3188
+Destination port: 80
+Sequence number: 883231514
+Acknowledgement number: 933361443
+Flags: A
+
+
+Packet #38
+
+Time since epoch: 1100903355, 451636
+Length: 275
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3188
+Sequence number: 933361443
+Acknowledgement number: 883231514
+Flags: FPA
+
+
+Packet #39
+
+Time since epoch: 1100903355, 451705
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3188
+Destination port: 80
+Sequence number: 883231514
+Acknowledgement number: 933361665
+Flags: A
+
+
+Packet #40
+
+Time since epoch: 1100903355, 538753
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3189
+Destination port: 80
+Sequence number: 883314090
+Acknowledgement number: 0
+Flags: S
+
+
+Packet #41
+
+Time since epoch: 1100903355, 539196
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3189
+Sequence number: 930776636
+Acknowledgement number: 883314091
+Flags: SA
+
+
+Packet #42
+
+Time since epoch: 1100903355, 539239
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3189
+Destination port: 80
+Sequence number: 883314091
+Acknowledgement number: 930776637
+Flags: A
+
+
+Packet #43
+
+Time since epoch: 1100903355, 540692
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3190
+Destination port: 80
+Sequence number: 883362097
+Acknowledgement number: 0
+Flags: S
+
+
+Packet #44
+
+Time since epoch: 1100903355, 541134
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3190
+Sequence number: 938079051
+Acknowledgement number: 883362098
+Flags: SA
+
+
+Packet #45
+
+Time since epoch: 1100903355, 541179
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3190
+Destination port: 80
+Sequence number: 883362098
+Acknowledgement number: 938079052
+Flags: A
+
+
+Packet #46
+
+Time since epoch: 1100903355, 561903
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3188
+Destination port: 80
+Sequence number: 883231514
+Acknowledgement number: 933361665
+Flags: FA
+
+
+Packet #47
+
+Time since epoch: 1100903355, 562335
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3188
+Sequence number: 933361665
+Acknowledgement number: 883231515
+Flags: A
+
+
+Packet #48
+
+Time since epoch: 1100903355, 562952
+Length: 651
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3189
+Destination port: 80
+Sequence number: 883314091
+Acknowledgement number: 930776637
+Flags: PA
+
+
+Packet #49
+
+Time since epoch: 1100903355, 564154
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3189
+Sequence number: 930776637
+Acknowledgement number: 883314688
+Flags: A
+
+
+Packet #50
+
+Time since epoch: 1100903355, 564207
+Length: 654
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3190
+Destination port: 80
+Sequence number: 883362098
+Acknowledgement number: 938079052
+Flags: PA
+
+
+Packet #51
+
+Time since epoch: 1100903355, 565435
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3190
+Sequence number: 938079052
+Acknowledgement number: 883362698
+Flags: A
+
+
+Packet #52
+
+Time since epoch: 1100903355, 567567
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3189
+Sequence number: 930776637
+Acknowledgement number: 883314688
+Flags: A
+
+
+Packet #53
+
+Time since epoch: 1100903355, 568809
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3189
+Sequence number: 930778097
+Acknowledgement number: 883314688
+Flags: A
+
+
+Packet #54
+
+Time since epoch: 1100903355, 568876
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3189
+Destination port: 80
+Sequence number: 883314688
+Acknowledgement number: 930779557
+Flags: A
+
+
+Packet #55
+
+Time since epoch: 1100903355, 570729
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3190
+Sequence number: 938079052
+Acknowledgement number: 883362698
+Flags: A
+
+
+Packet #56
+
+Time since epoch: 1100903355, 571979
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3189
+Sequence number: 930779557
+Acknowledgement number: 883314688
+Flags: A
+
+
+Packet #57
+
+Time since epoch: 1100903355, 572081
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3189
+Destination port: 80
+Sequence number: 883314688
+Acknowledgement number: 930781017
+Flags: A
+
+
+Packet #58
+
+Time since epoch: 1100903355, 573238
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3189
+Sequence number: 930781017
+Acknowledgement number: 883314688
+Flags: A
+
+
+Packet #59
+
+Time since epoch: 1100903355, 574543
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3189
+Sequence number: 930782477
+Acknowledgement number: 883314688
+Flags: A
+
+
+Packet #60
+
+Time since epoch: 1100903355, 574603
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3189
+Destination port: 80
+Sequence number: 883314688
+Acknowledgement number: 930783937
+Flags: A
+
+
+Packet #61
+
+Time since epoch: 1100903355, 575629
+Length: 1320
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3189
+Sequence number: 930783937
+Acknowledgement number: 883314688
+Flags: FPA
+
+
+Packet #62
+
+Time since epoch: 1100903355, 575713
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3189
+Destination port: 80
+Sequence number: 883314688
+Acknowledgement number: 930785204
+Flags: A
+
+
+Packet #63
+
+Time since epoch: 1100903355, 576959
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3190
+Sequence number: 938080512
+Acknowledgement number: 883362698
+Flags: A
+
+
+Packet #64
+
+Time since epoch: 1100903355, 577050
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3190
+Destination port: 80
+Sequence number: 883362698
+Acknowledgement number: 938081972
+Flags: A
+
+
+Packet #65
+
+Time since epoch: 1100903355, 579454
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3190
+Sequence number: 938081972
+Acknowledgement number: 883362698
+Flags: A
+
+
+Packet #66
+
+Time since epoch: 1100903355, 579588
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3190
+Destination port: 80
+Sequence number: 883362698
+Acknowledgement number: 938083432
+Flags: A
+
+
+Packet #67
+
+Time since epoch: 1100903355, 580655
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3190
+Sequence number: 938083432
+Acknowledgement number: 883362698
+Flags: A
+
+
+Packet #68
+
+Time since epoch: 1100903355, 581949
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3190
+Sequence number: 938084892
+Acknowledgement number: 883362698
+Flags: A
+
+
+Packet #69
+
+Time since epoch: 1100903355, 581980
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3190
+Destination port: 80
+Sequence number: 883362698
+Acknowledgement number: 938086352
+Flags: A
+
+
+Packet #70
+
+Time since epoch: 1100903355, 583202
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3190
+Sequence number: 938086352
+Acknowledgement number: 883362698
+Flags: A
+
+
+Packet #71
+
+Time since epoch: 1100903355, 583263
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3190
+Destination port: 80
+Sequence number: 883362698
+Acknowledgement number: 938087812
+Flags: A
+
+
+Packet #72
+
+Time since epoch: 1100903355, 583787
+Length: 624
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3190
+Sequence number: 938087812
+Acknowledgement number: 883362698
+Flags: FPA
+
+
+Packet #73
+
+Time since epoch: 1100903355, 583820
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3190
+Destination port: 80
+Sequence number: 883362698
+Acknowledgement number: 938088383
+Flags: A
+
+
+Packet #74
+
+Time since epoch: 1100903355, 609257
+Length: 60
+TCP/IP header
+Source IP: 209.225.11.237
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3179
+Sequence number: 10747
+Acknowledgement number: 882729119
+Flags: A
+
+
+Packet #75
+
+Time since epoch: 1100903355, 621790
+Length: 62
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3183
+Sequence number: 2319098386
+Acknowledgement number: 883038877
+Flags: SA
+
+
+Packet #76
+
+Time since epoch: 1100903355, 621869
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3183
+Destination port: 80
+Sequence number: 883038877
+Acknowledgement number: 2319098387
+Flags: A
+
+
+Packet #77
+
+Time since epoch: 1100903355, 628206
+Length: 62
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3184
+Sequence number: 2315328069
+Acknowledgement number: 883089668
+Flags: SA
+
+
+Packet #78
+
+Time since epoch: 1100903355, 628303
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3184
+Destination port: 80
+Sequence number: 883089668
+Acknowledgement number: 2315328070
+Flags: A
+
+
+Packet #79
+
+Time since epoch: 1100903355, 634850
+Length: 62
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3185
+Sequence number: 2325018198
+Acknowledgement number: 883125758
+Flags: SA
+
+
+Packet #80
+
+Time since epoch: 1100903355, 634944
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3185
+Destination port: 80
+Sequence number: 883125758
+Acknowledgement number: 2325018199
+Flags: A
+
+
+Packet #81
+
+Time since epoch: 1100903355, 660994
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3183
+Destination port: 80
+Sequence number: 883038877
+Acknowledgement number: 2319098387
+Flags: A
+
+
+Packet #82
+
+Time since epoch: 1100903355, 661054
+Length: 1211
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3183
+Destination port: 80
+Sequence number: 883040337
+Acknowledgement number: 2319098387
+Flags: PA
+
+
+Packet #83
+
+Time since epoch: 1100903355, 661366
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3184
+Destination port: 80
+Sequence number: 883089668
+Acknowledgement number: 2315328070
+Flags: A
+
+
+Packet #84
+
+Time since epoch: 1100903355, 661402
+Length: 1211
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3184
+Destination port: 80
+Sequence number: 883091128
+Acknowledgement number: 2315328070
+Flags: PA
+
+
+Packet #85
+
+Time since epoch: 1100903355, 661653
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3185
+Destination port: 80
+Sequence number: 883125758
+Acknowledgement number: 2325018199
+Flags: A
+
+
+Packet #86
+
+Time since epoch: 1100903355, 661676
+Length: 1211
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3185
+Destination port: 80
+Sequence number: 883127218
+Acknowledgement number: 2325018199
+Flags: PA
+
+
+Packet #87
+
+Time since epoch: 1100903355, 668170
+Length: 62
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3187
+Sequence number: 2333884057
+Acknowledgement number: 883193597
+Flags: SA
+
+
+Packet #88
+
+Time since epoch: 1100903355, 668261
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3187
+Destination port: 80
+Sequence number: 883193597
+Acknowledgement number: 2333884058
+Flags: A
+
+
+Packet #89
+
+Time since epoch: 1100903355, 669187
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3187
+Destination port: 80
+Sequence number: 883193597
+Acknowledgement number: 2333884058
+Flags: A
+
+
+Packet #90
+
+Time since epoch: 1100903355, 669239
+Length: 1211
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3187
+Destination port: 80
+Sequence number: 883195057
+Acknowledgement number: 2333884058
+Flags: PA
+
+
+Packet #91
+
+Time since epoch: 1100903355, 702639
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3189
+Destination port: 80
+Sequence number: 883314688
+Acknowledgement number: 930785204
+Flags: FA
+
+
+Packet #92
+
+Time since epoch: 1100903355, 703068
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3189
+Sequence number: 930785204
+Acknowledgement number: 883314689
+Flags: A
+
+
+Packet #93
+
+Time since epoch: 1100903355, 870269
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3190
+Destination port: 80
+Sequence number: 883362698
+Acknowledgement number: 938088383
+Flags: FA
+
+
+Packet #94
+
+Time since epoch: 1100903355, 870696
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3190
+Sequence number: 938088383
+Acknowledgement number: 883362699
+Flags: A
+
+
+Packet #95
+
+Time since epoch: 1100903356, 10165
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3183
+Sequence number: 2319098387
+Acknowledgement number: 883040337
+Flags: A
+
+
+Packet #96
+
+Time since epoch: 1100903356, 97138
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3183
+Sequence number: 2319098387
+Acknowledgement number: 883041494
+Flags: A
+
+
+Packet #97
+
+Time since epoch: 1100903356, 101328
+Length: 72
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3183
+Sequence number: 2319098387
+Acknowledgement number: 883041494
+Flags: PA
+
+
+Packet #98
+
+Time since epoch: 1100903356, 129936
+Length: 770
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 16695
+Destination port: 20567
+Sequence number: 1148478830
+Acknowledgement number: 1378896970
+Flags: SFAU
+
+
+Packet #99
+
+Time since epoch: 1100903356, 129998
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3183
+Destination port: 80
+Sequence number: 883041494
+Acknowledgement number: 2319099865
+Flags: A
+
+
+Packet #100
+
+Time since epoch: 1100903356, 153786
+Length: 1301
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3183
+Sequence number: 2319099865
+Acknowledgement number: 883041494
+Flags: FPA
+
+
+Packet #101
+
+Time since epoch: 1100903356, 153897
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3183
+Destination port: 80
+Sequence number: 883041494
+Acknowledgement number: 2319101113
+Flags: A
+
+
+Packet #102
+
+Time since epoch: 1100903356, 155401
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3183
+Destination port: 80
+Sequence number: 883041494
+Acknowledgement number: 2319101113
+Flags: FA
+
+
+Packet #103
+
+Time since epoch: 1100903356, 156501
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3191
+Destination port: 80
+Sequence number: 883566487
+Acknowledgement number: 0
+Flags: S
+
+
+Packet #104
+
+Time since epoch: 1100903356, 203766
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3184
+Sequence number: 2315328070
+Acknowledgement number: 883091128
+Flags: A
+
+
+Packet #105
+
+Time since epoch: 1100903356, 289363
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3184
+Sequence number: 2315328070
+Acknowledgement number: 883092285
+Flags: A
+
+
+Packet #106
+
+Time since epoch: 1100903356, 296706
+Length: 72
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3184
+Sequence number: 2315328070
+Acknowledgement number: 883092285
+Flags: PA
+
+
+Packet #107
+
+Time since epoch: 1100903356, 325336
+Length: 770
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 27494
+Destination port: 13139
+Sequence number: 1162827348
+Acknowledgement number: 1734629689
+Flags: PAU
+
+
+Packet #108
+
+Time since epoch: 1100903356, 325396
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3184
+Destination port: 80
+Sequence number: 883092285
+Acknowledgement number: 2315329548
+Flags: A
+
+
+Packet #109
+
+Time since epoch: 1100903356, 348999
+Length: 1301
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3184
+Sequence number: 2315329548
+Acknowledgement number: 883092285
+Flags: FPA
+
+
+Packet #110
+
+Time since epoch: 1100903356, 349114
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3184
+Destination port: 80
+Sequence number: 883092285
+Acknowledgement number: 2315330796
+Flags: A
+
+
+Packet #111
+
+Time since epoch: 1100903356, 350640
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3184
+Destination port: 80
+Sequence number: 883092285
+Acknowledgement number: 2315330796
+Flags: FA
+
+
+Packet #112
+
+Time since epoch: 1100903356, 351993
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3192
+Destination port: 80
+Sequence number: 883668558
+Acknowledgement number: 0
+Flags: S
+
+
+Packet #113
+
+Time since epoch: 1100903356, 395318
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3185
+Sequence number: 2325018199
+Acknowledgement number: 883127218
+Flags: A
+
+
+Packet #114
+
+Time since epoch: 1100903356, 480521
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3185
+Sequence number: 2325018199
+Acknowledgement number: 883128375
+Flags: A
+
+
+Packet #115
+
+Time since epoch: 1100903356, 593129
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3187
+Sequence number: 2333884058
+Acknowledgement number: 883195057
+Flags: A
+
+
+Packet #116
+
+Time since epoch: 1100903356, 679384
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3187
+Sequence number: 2333884058
+Acknowledgement number: 883196214
+Flags: A
+
+
+Packet #117
+
+Time since epoch: 1100903356, 684288
+Length: 72
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3187
+Sequence number: 2333884058
+Acknowledgement number: 883196214
+Flags: PA
+
+
+Packet #118
+
+Time since epoch: 1100903356, 712920
+Length: 770
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 31045
+Destination port: 26678
+Sequence number: 892365389
+Acknowledgement number: 1498630219
+Flags: SU
+
+
+Packet #119
+
+Time since epoch: 1100903356, 712980
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3187
+Destination port: 80
+Sequence number: 883196214
+Acknowledgement number: 2333885536
+Flags: A
+
+
+Packet #120
+
+Time since epoch: 1100903356, 736542
+Length: 1301
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3187
+Sequence number: 2333885536
+Acknowledgement number: 883196214
+Flags: FPA
+
+
+Packet #121
+
+Time since epoch: 1100903356, 736597
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3187
+Destination port: 80
+Sequence number: 883196214
+Acknowledgement number: 2333886784
+Flags: A
+
+
+Packet #122
+
+Time since epoch: 1100903356, 737359
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3183
+Sequence number: 2319101113
+Acknowledgement number: 883041495
+Flags: A
+
+
+Packet #123
+
+Time since epoch: 1100903356, 738044
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3187
+Destination port: 80
+Sequence number: 883196214
+Acknowledgement number: 2333886784
+Flags: FA
+
+
+Packet #124
+
+Time since epoch: 1100903356, 738757
+Length: 62
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3191
+Sequence number: 2315000126
+Acknowledgement number: 883566488
+Flags: SA
+
+
+Packet #125
+
+Time since epoch: 1100903356, 738817
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3191
+Destination port: 80
+Sequence number: 883566488
+Acknowledgement number: 2315000127
+Flags: A
+
+
+Packet #126
+
+Time since epoch: 1100903356, 739382
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3193
+Destination port: 80
+Sequence number: 883802242
+Acknowledgement number: 0
+Flags: S
+
+
+Packet #127
+
+Time since epoch: 1100903356, 739744
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3191
+Destination port: 80
+Sequence number: 883566488
+Acknowledgement number: 2315000127
+Flags: A
+
+
+Packet #128
+
+Time since epoch: 1100903356, 739805
+Length: 1267
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3191
+Destination port: 80
+Sequence number: 883567948
+Acknowledgement number: 2315000127
+Flags: PA
+
+
+Packet #129
+
+Time since epoch: 1100903356, 741105
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3184
+Sequence number: 2315330796
+Acknowledgement number: 883092286
+Flags: A
+
+
+Packet #130
+
+Time since epoch: 1100903356, 742916
+Length: 62
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3192
+Sequence number: 2318834255
+Acknowledgement number: 883668559
+Flags: SA
+
+
+Packet #131
+
+Time since epoch: 1100903356, 742949
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3192
+Destination port: 80
+Sequence number: 883668559
+Acknowledgement number: 2318834256
+Flags: A
+
+
+Packet #132
+
+Time since epoch: 1100903356, 743377
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3192
+Destination port: 80
+Sequence number: 883668559
+Acknowledgement number: 2318834256
+Flags: A
+
+
+Packet #133
+
+Time since epoch: 1100903356, 743422
+Length: 1267
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3192
+Destination port: 80
+Sequence number: 883670019
+Acknowledgement number: 2318834256
+Flags: PA
+
+
+Packet #134
+
+Time since epoch: 1100903356, 909549
+Length: 72
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3185
+Sequence number: 2325018199
+Acknowledgement number: 883128375
+Flags: PA
+
+
+Packet #135
+
+Time since epoch: 1100903356, 938162
+Length: 770
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 19809
+Destination port: 12634
+Sequence number: 1919759471
+Acknowledgement number: 845759024
+Flags: SP
+
+
+Packet #136
+
+Time since epoch: 1100903356, 938226
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3185
+Destination port: 80
+Sequence number: 883128375
+Acknowledgement number: 2325019677
+Flags: A
+
+
+Packet #137
+
+Time since epoch: 1100903356, 961785
+Length: 1301
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3185
+Sequence number: 2325019677
+Acknowledgement number: 883128375
+Flags: FPA
+
+
+Packet #138
+
+Time since epoch: 1100903356, 961845
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3185
+Destination port: 80
+Sequence number: 883128375
+Acknowledgement number: 2325020925
+Flags: A
+
+
+Packet #139
+
+Time since epoch: 1100903356, 963284
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3185
+Destination port: 80
+Sequence number: 883128375
+Acknowledgement number: 2325020925
+Flags: FA
+
+
+Packet #140
+
+Time since epoch: 1100903356, 964407
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3194
+Destination port: 80
+Sequence number: 883903455
+Acknowledgement number: 0
+Flags: S
+
+
+Packet #141
+
+Time since epoch: 1100903356, 992361
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3187
+Sequence number: 2333886784
+Acknowledgement number: 883196215
+Flags: A
+
+
+Packet #142
+
+Time since epoch: 1100903357, 3913
+Length: 62
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3193
+Sequence number: 2325279565
+Acknowledgement number: 883802243
+Flags: SA
+
+
+Packet #143
+
+Time since epoch: 1100903357, 3967
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3193
+Destination port: 80
+Sequence number: 883802243
+Acknowledgement number: 2325279566
+Flags: A
+
+
+Packet #144
+
+Time since epoch: 1100903357, 4463
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3193
+Destination port: 80
+Sequence number: 883802243
+Acknowledgement number: 2325279566
+Flags: A
+
+
+Packet #145
+
+Time since epoch: 1100903357, 4513
+Length: 1267
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3193
+Destination port: 80
+Sequence number: 883803703
+Acknowledgement number: 2325279566
+Flags: PA
+
+
+Packet #146
+
+Time since epoch: 1100903357, 109872
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3191
+Sequence number: 2315000127
+Acknowledgement number: 883567948
+Flags: A
+
+
+Packet #147
+
+Time since epoch: 1100903357, 200571
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3191
+Sequence number: 2315000127
+Acknowledgement number: 883569161
+Flags: A
+
+
+Packet #148
+
+Time since epoch: 1100903357, 214354
+Length: 69
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3191
+Sequence number: 2315000127
+Acknowledgement number: 883569161
+Flags: PA
+
+
+Packet #149
+
+Time since epoch: 1100903357, 242988
+Length: 770
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 0
+Destination port: 0
+Sequence number: 0
+Acknowledgement number: 0
+Flags: .
+
+
+Packet #150
+
+Time since epoch: 1100903357, 243074
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3191
+Destination port: 80
+Sequence number: 883569161
+Acknowledgement number: 2315001602
+Flags: A
+
+
+Packet #151
+
+Time since epoch: 1100903357, 313091
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3192
+Sequence number: 2318834256
+Acknowledgement number: 883670019
+Flags: A
+
+
+Packet #152
+
+Time since epoch: 1100903357, 401351
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3192
+Sequence number: 2318834256
+Acknowledgement number: 883671232
+Flags: A
+
+
+Packet #153
+
+Time since epoch: 1100903357, 404055
+Length: 69
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3192
+Sequence number: 2318834256
+Acknowledgement number: 883671232
+Flags: PA
+
+
+Packet #154
+
+Time since epoch: 1100903357, 413437
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3195
+Destination port: 80
+Sequence number: 884044567
+Acknowledgement number: 0
+Flags: S
+
+
+Packet #155
+
+Time since epoch: 1100903357, 413892
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3195
+Sequence number: 934582331
+Acknowledgement number: 884044568
+Flags: SA
+
+
+Packet #156
+
+Time since epoch: 1100903357, 413950
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3195
+Destination port: 80
+Sequence number: 884044568
+Acknowledgement number: 934582332
+Flags: A
+
+
+Packet #157
+
+Time since epoch: 1100903357, 422341
+Length: 655
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3195
+Destination port: 80
+Sequence number: 884044568
+Acknowledgement number: 934582332
+Flags: PA
+
+
+Packet #158
+
+Time since epoch: 1100903357, 423558
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3195
+Sequence number: 934582332
+Acknowledgement number: 884045169
+Flags: A
+
+
+Packet #159
+
+Time since epoch: 1100903357, 425457
+Length: 746
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3195
+Sequence number: 934582332
+Acknowledgement number: 884045169
+Flags: PA
+
+
+Packet #160
+
+Time since epoch: 1100903357, 425504
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3195
+Sequence number: 934583024
+Acknowledgement number: 884045169
+Flags: FA
+
+
+Packet #161
+
+Time since epoch: 1100903357, 425554
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3195
+Destination port: 80
+Sequence number: 884045169
+Acknowledgement number: 934583025
+Flags: A
+
+
+Packet #162
+
+Time since epoch: 1100903357, 432716
+Length: 770
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 0
+Destination port: 0
+Sequence number: 0
+Acknowledgement number: 0
+Flags: .
+
+
+Packet #163
+
+Time since epoch: 1100903357, 432814
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3192
+Destination port: 80
+Sequence number: 883671232
+Acknowledgement number: 2318835731
+Flags: A
+
+
+Packet #164
+
+Time since epoch: 1100903357, 433873
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3185
+Sequence number: 2325020925
+Acknowledgement number: 883128376
+Flags: A
+
+
+Packet #165
+
+Time since epoch: 1100903357, 435343
+Length: 62
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3194
+Sequence number: 2336451130
+Acknowledgement number: 883903456
+Flags: SA
+
+
+Packet #166
+
+Time since epoch: 1100903357, 435402
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3194
+Destination port: 80
+Sequence number: 883903456
+Acknowledgement number: 2336451131
+Flags: A
+
+
+Packet #167
+
+Time since epoch: 1100903357, 541580
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3193
+Sequence number: 2325279566
+Acknowledgement number: 883803703
+Flags: A
+
+
+Packet #168
+
+Time since epoch: 1100903357, 558966
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3194
+Destination port: 80
+Sequence number: 883903456
+Acknowledgement number: 2336451131
+Flags: A
+
+
+Packet #169
+
+Time since epoch: 1100903357, 559026
+Length: 1267
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3194
+Destination port: 80
+Sequence number: 883904916
+Acknowledgement number: 2336451131
+Flags: PA
+
+
+Packet #170
+
+Time since epoch: 1100903357, 631054
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3193
+Sequence number: 2325279566
+Acknowledgement number: 883804916
+Flags: A
+
+
+Packet #171
+
+Time since epoch: 1100903357, 632770
+Length: 69
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3193
+Sequence number: 2325279566
+Acknowledgement number: 883804916
+Flags: PA
+
+
+Packet #172
+
+Time since epoch: 1100903357, 632997
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3195
+Destination port: 80
+Sequence number: 884045169
+Acknowledgement number: 934583025
+Flags: FA
+
+
+Packet #173
+
+Time since epoch: 1100903357, 633431
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3195
+Sequence number: 934583025
+Acknowledgement number: 884045170
+Flags: A
+
+
+Packet #174
+
+Time since epoch: 1100903357, 661394
+Length: 770
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 0
+Destination port: 0
+Sequence number: 0
+Acknowledgement number: 0
+Flags: .
+
+
+Packet #175
+
+Time since epoch: 1100903357, 661435
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3193
+Destination port: 80
+Sequence number: 883804916
+Acknowledgement number: 2325281041
+Flags: A
+
+
+Packet #176
+
+Time since epoch: 1100903357, 689484
+Length: 770
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 19459
+Destination port: 15552
+Sequence number: 77511779
+Acknowledgement number: 206368768
+Flags: SRU
+
+
+Packet #177
+
+Time since epoch: 1100903357, 717792
+Length: 770
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 20484
+Destination port: 17712
+Sequence number: 86176007
+Acknowledgement number: 1681916706
+Flags: FRP
+
+
+Packet #178
+
+Time since epoch: 1100903357, 717843
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3191
+Destination port: 80
+Sequence number: 883569161
+Acknowledgement number: 2315004522
+Flags: A
+
+
+Packet #179
+
+Time since epoch: 1100903357, 738637
+Length: 1187
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3191
+Sequence number: 2315004522
+Acknowledgement number: 883569161
+Flags: FPA
+
+
+Packet #180
+
+Time since epoch: 1100903357, 738702
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3191
+Destination port: 80
+Sequence number: 883569161
+Acknowledgement number: 2315005656
+Flags: A
+
+
+Packet #181
+
+Time since epoch: 1100903357, 738964
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3191
+Destination port: 80
+Sequence number: 883569161
+Acknowledgement number: 2315005656
+Flags: FA
+
+
+Packet #182
+
+Time since epoch: 1100903357, 766576
+Length: 770
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 19459
+Destination port: 15552
+Sequence number: 77511779
+Acknowledgement number: 206368768
+Flags: SRU
+
+
+Packet #183
+
+Time since epoch: 1100903357, 794654
+Length: 770
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 20484
+Destination port: 17712
+Sequence number: 86176007
+Acknowledgement number: 1681916706
+Flags: FRP
+
+
+Packet #184
+
+Time since epoch: 1100903357, 794745
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3192
+Destination port: 80
+Sequence number: 883671232
+Acknowledgement number: 2318838651
+Flags: A
+
+
+Packet #185
+
+Time since epoch: 1100903357, 815740
+Length: 1187
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3192
+Sequence number: 2318838651
+Acknowledgement number: 883671232
+Flags: FPA
+
+
+Packet #186
+
+Time since epoch: 1100903357, 815822
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3192
+Destination port: 80
+Sequence number: 883671232
+Acknowledgement number: 2318839785
+Flags: A
+
+
+Packet #187
+
+Time since epoch: 1100903357, 816117
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3192
+Destination port: 80
+Sequence number: 883671232
+Acknowledgement number: 2318839785
+Flags: FA
+
+
+Packet #188
+
+Time since epoch: 1100903357, 909207
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3194
+Sequence number: 2336451131
+Acknowledgement number: 883904916
+Flags: A
+
+
+Packet #189
+
+Time since epoch: 1100903357, 997652
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3194
+Sequence number: 2336451131
+Acknowledgement number: 883906129
+Flags: A
+
+
+Packet #190
+
+Time since epoch: 1100903358, 360
+Length: 69
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3194
+Sequence number: 2336451131
+Acknowledgement number: 883906129
+Flags: PA
+
+
+Packet #191
+
+Time since epoch: 1100903358, 29034
+Length: 770
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 0
+Destination port: 0
+Sequence number: 0
+Acknowledgement number: 0
+Flags: .
+
+
+Packet #192
+
+Time since epoch: 1100903358, 29152
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3194
+Destination port: 80
+Sequence number: 883906129
+Acknowledgement number: 2336452606
+Flags: A
+
+
+Packet #193
+
+Time since epoch: 1100903358, 57332
+Length: 770
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 16398
+Destination port: 60050
+Sequence number: 2394801123
+Acknowledgement number: 1278886023
+Flags: SRAU
+
+
+Packet #194
+
+Time since epoch: 1100903358, 85429
+Length: 770
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 26764
+Destination port: 8165
+Sequence number: 2359351371
+Acknowledgement number: 2467859930
+Flags: F
+
+
+Packet #195
+
+Time since epoch: 1100903358, 85496
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3193
+Destination port: 80
+Sequence number: 883804916
+Acknowledgement number: 2325283961
+Flags: A
+
+
+Packet #196
+
+Time since epoch: 1100903358, 113649
+Length: 770
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 10380
+Destination port: 49560
+Sequence number: 3423610578
+Acknowledgement number: 109302037
+Flags: RPA
+
+
+Packet #197
+
+Time since epoch: 1100903358, 114687
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3191
+Sequence number: 2315005656
+Acknowledgement number: 883569162
+Flags: A
+
+
+Packet #198
+
+Time since epoch: 1100903358, 116180
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3192
+Sequence number: 2318839785
+Acknowledgement number: 883671233
+Flags: A
+
+
+Packet #199
+
+Time since epoch: 1100903358, 219626
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3193
+Destination port: 80
+Sequence number: 883804916
+Acknowledgement number: 2325285421
+Flags: A
+
+
+Packet #200
+
+Time since epoch: 1100903358, 303019
+Length: 770
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 19459
+Destination port: 15552
+Sequence number: 77511779
+Acknowledgement number: 206368768
+Flags: SRU
+
+
+Packet #201
+
+Time since epoch: 1100903358, 331339
+Length: 770
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 20484
+Destination port: 17712
+Sequence number: 86176007
+Acknowledgement number: 1681916706
+Flags: FRP
+
+
+Packet #202
+
+Time since epoch: 1100903358, 331423
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3194
+Destination port: 80
+Sequence number: 883906129
+Acknowledgement number: 2336455526
+Flags: A
+
+
+Packet #203
+
+Time since epoch: 1100903358, 352416
+Length: 1187
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3194
+Sequence number: 2336455526
+Acknowledgement number: 883906129
+Flags: FPA
+
+
+Packet #204
+
+Time since epoch: 1100903358, 352501
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3194
+Destination port: 80
+Sequence number: 883906129
+Acknowledgement number: 2336456660
+Flags: A
+
+
+Packet #205
+
+Time since epoch: 1100903358, 352815
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3194
+Destination port: 80
+Sequence number: 883906129
+Acknowledgement number: 2336456660
+Flags: FA
+
+
+Packet #206
+
+Time since epoch: 1100903358, 380375
+Length: 770
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 26674
+Destination port: 25308
+Sequence number: 2385402361
+Acknowledgement number: 90110706
+Flags: SRPAU
+
+
+Packet #207
+
+Time since epoch: 1100903358, 401213
+Length: 1190
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3193
+Sequence number: 2325286881
+Acknowledgement number: 883804916
+Flags: FPA
+
+
+Packet #208
+
+Time since epoch: 1100903358, 401299
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3193
+Destination port: 80
+Sequence number: 883804916
+Acknowledgement number: 2325288018
+Flags: A
+
+
+Packet #209
+
+Time since epoch: 1100903358, 401789
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 209.225.0.6
+Source port: 3193
+Destination port: 80
+Sequence number: 883804916
+Acknowledgement number: 2325288018
+Flags: FA
+
+
+Packet #210
+
+Time since epoch: 1100903358, 606544
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3194
+Sequence number: 2336456660
+Acknowledgement number: 883906130
+Flags: A
+
+
+Packet #211
+
+Time since epoch: 1100903358, 656305
+Length: 60
+TCP/IP header
+Source IP: 209.225.0.6
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3193
+Sequence number: 2325288018
+Acknowledgement number: 883804917
+Flags: A
+
+
+Packet #212
+
+Time since epoch: 1100903359, 73186
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3196
+Destination port: 80
+Sequence number: 884514132
+Acknowledgement number: 0
+Flags: S
+
+
+Packet #213
+
+Time since epoch: 1100903359, 73643
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3196
+Sequence number: 937324853
+Acknowledgement number: 884514133
+Flags: SA
+
+
+Packet #214
+
+Time since epoch: 1100903359, 73689
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3196
+Destination port: 80
+Sequence number: 884514133
+Acknowledgement number: 937324854
+Flags: A
+
+
+Packet #215
+
+Time since epoch: 1100903359, 82029
+Length: 668
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3196
+Destination port: 80
+Sequence number: 884514133
+Acknowledgement number: 937324854
+Flags: PA
+
+
+Packet #216
+
+Time since epoch: 1100903359, 83273
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3196
+Sequence number: 937324854
+Acknowledgement number: 884514747
+Flags: A
+
+
+Packet #217
+
+Time since epoch: 1100903359, 86139
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3196
+Sequence number: 937324854
+Acknowledgement number: 884514747
+Flags: A
+
+
+Packet #218
+
+Time since epoch: 1100903359, 86246
+Length: 134
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3196
+Sequence number: 937326314
+Acknowledgement number: 884514747
+Flags: PA
+
+
+Packet #219
+
+Time since epoch: 1100903359, 86355
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3196
+Destination port: 80
+Sequence number: 884514747
+Acknowledgement number: 937326394
+Flags: A
+
+
+Packet #220
+
+Time since epoch: 1100903359, 86378
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3196
+Sequence number: 937326394
+Acknowledgement number: 884514747
+Flags: FA
+
+
+Packet #221
+
+Time since epoch: 1100903359, 86408
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3196
+Destination port: 80
+Sequence number: 884514747
+Acknowledgement number: 937326395
+Flags: A
+
+
+Packet #222
+
+Time since epoch: 1100903359, 247153
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3196
+Destination port: 80
+Sequence number: 884514747
+Acknowledgement number: 937326395
+Flags: FA
+
+
+Packet #223
+
+Time since epoch: 1100903359, 247590
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3196
+Sequence number: 937326395
+Acknowledgement number: 884514748
+Flags: A
+
+
+Packet #224
+
+Time since epoch: 1100903360, 805737
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3197
+Destination port: 80
+Sequence number: 884989546
+Acknowledgement number: 0
+Flags: S
+
+
+Packet #225
+
+Time since epoch: 1100903360, 806208
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3197
+Sequence number: 946485476
+Acknowledgement number: 884989547
+Flags: SA
+
+
+Packet #226
+
+Time since epoch: 1100903360, 806255
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3197
+Destination port: 80
+Sequence number: 884989547
+Acknowledgement number: 946485477
+Flags: A
+
+
+Packet #227
+
+Time since epoch: 1100903360, 814439
+Length: 676
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3197
+Destination port: 80
+Sequence number: 884989547
+Acknowledgement number: 946485477
+Flags: PA
+
+
+Packet #228
+
+Time since epoch: 1100903360, 815687
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3197
+Sequence number: 946485477
+Acknowledgement number: 884990169
+Flags: A
+
+
+Packet #229
+
+Time since epoch: 1100903360, 818621
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3197
+Sequence number: 946485477
+Acknowledgement number: 884990169
+Flags: A
+
+
+Packet #230
+
+Time since epoch: 1100903360, 819529
+Length: 1103
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3197
+Sequence number: 946486937
+Acknowledgement number: 884990169
+Flags: PA
+
+
+Packet #231
+
+Time since epoch: 1100903360, 819615
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3197
+Destination port: 80
+Sequence number: 884990169
+Acknowledgement number: 946487986
+Flags: A
+
+
+Packet #232
+
+Time since epoch: 1100903360, 819637
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3197
+Sequence number: 946487986
+Acknowledgement number: 884990169
+Flags: FA
+
+
+Packet #233
+
+Time since epoch: 1100903360, 819667
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3197
+Destination port: 80
+Sequence number: 884990169
+Acknowledgement number: 946487987
+Flags: A
+
+
+Packet #234
+
+Time since epoch: 1100903360, 895656
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3198
+Destination port: 80
+Sequence number: 885048436
+Acknowledgement number: 0
+Flags: S
+
+
+Packet #235
+
+Time since epoch: 1100903360, 896100
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3198
+Sequence number: 936175842
+Acknowledgement number: 885048437
+Flags: SA
+
+
+Packet #236
+
+Time since epoch: 1100903360, 896142
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3198
+Destination port: 80
+Sequence number: 885048437
+Acknowledgement number: 936175843
+Flags: A
+
+
+Packet #237
+
+Time since epoch: 1100903360, 897817
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3199
+Destination port: 80
+Sequence number: 885088855
+Acknowledgement number: 0
+Flags: S
+
+
+Packet #238
+
+Time since epoch: 1100903360, 898261
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3199
+Sequence number: 947173139
+Acknowledgement number: 885088856
+Flags: SA
+
+
+Packet #239
+
+Time since epoch: 1100903360, 898304
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3199
+Destination port: 80
+Sequence number: 885088856
+Acknowledgement number: 947173140
+Flags: A
+
+
+Packet #240
+
+Time since epoch: 1100903360, 922012
+Length: 686
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3198
+Destination port: 80
+Sequence number: 885048437
+Acknowledgement number: 936175843
+Flags: PA
+
+
+Packet #241
+
+Time since epoch: 1100903360, 922967
+Length: 686
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3199
+Destination port: 80
+Sequence number: 885088856
+Acknowledgement number: 947173140
+Flags: PA
+
+
+Packet #242
+
+Time since epoch: 1100903360, 923153
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3197
+Destination port: 80
+Sequence number: 884990169
+Acknowledgement number: 946487987
+Flags: FA
+
+
+Packet #243
+
+Time since epoch: 1100903360, 923791
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3198
+Sequence number: 936175843
+Acknowledgement number: 885049069
+Flags: A
+
+
+Packet #244
+
+Time since epoch: 1100903360, 924344
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3199
+Sequence number: 947173140
+Acknowledgement number: 885089488
+Flags: A
+
+
+Packet #245
+
+Time since epoch: 1100903360, 924474
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3197
+Sequence number: 946487987
+Acknowledgement number: 884990170
+Flags: A
+
+
+Packet #246
+
+Time since epoch: 1100903360, 927034
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3198
+Sequence number: 936175843
+Acknowledgement number: 885049069
+Flags: A
+
+
+Packet #247
+
+Time since epoch: 1100903360, 928254
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3198
+Sequence number: 936177303
+Acknowledgement number: 885049069
+Flags: A
+
+
+Packet #248
+
+Time since epoch: 1100903360, 928316
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3198
+Destination port: 80
+Sequence number: 885049069
+Acknowledgement number: 936178763
+Flags: A
+
+
+Packet #249
+
+Time since epoch: 1100903360, 930181
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3199
+Sequence number: 947173140
+Acknowledgement number: 885089488
+Flags: A
+
+
+Packet #250
+
+Time since epoch: 1100903360, 931426
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3198
+Sequence number: 936178763
+Acknowledgement number: 885049069
+Flags: A
+
+
+Packet #251
+
+Time since epoch: 1100903360, 931499
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3198
+Destination port: 80
+Sequence number: 885049069
+Acknowledgement number: 936180223
+Flags: A
+
+
+Packet #252
+
+Time since epoch: 1100903360, 932707
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3198
+Sequence number: 936180223
+Acknowledgement number: 885049069
+Flags: A
+
+
+Packet #253
+
+Time since epoch: 1100903360, 934015
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3198
+Sequence number: 936181683
+Acknowledgement number: 885049069
+Flags: A
+
+
+Packet #254
+
+Time since epoch: 1100903360, 934077
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3198
+Destination port: 80
+Sequence number: 885049069
+Acknowledgement number: 936183143
+Flags: A
+
+
+Packet #255
+
+Time since epoch: 1100903360, 935275
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3199
+Sequence number: 947174600
+Acknowledgement number: 885089488
+Flags: A
+
+
+Packet #256
+
+Time since epoch: 1100903360, 935356
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3199
+Destination port: 80
+Sequence number: 885089488
+Acknowledgement number: 947176060
+Flags: A
+
+
+Packet #257
+
+Time since epoch: 1100903360, 936557
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3198
+Sequence number: 936183143
+Acknowledgement number: 885049069
+Flags: A
+
+
+Packet #258
+
+Time since epoch: 1100903360, 936643
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3198
+Destination port: 80
+Sequence number: 885049069
+Acknowledgement number: 936184603
+Flags: A
+
+
+Packet #259
+
+Time since epoch: 1100903360, 937074
+Length: 542
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3198
+Sequence number: 936184603
+Acknowledgement number: 885049069
+Flags: FPA
+
+
+Packet #260
+
+Time since epoch: 1100903360, 937140
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3198
+Destination port: 80
+Sequence number: 885049069
+Acknowledgement number: 936185092
+Flags: A
+
+
+Packet #261
+
+Time since epoch: 1100903360, 939152
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3199
+Sequence number: 947176060
+Acknowledgement number: 885089488
+Flags: A
+
+
+Packet #262
+
+Time since epoch: 1100903360, 939210
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3199
+Destination port: 80
+Sequence number: 885089488
+Acknowledgement number: 947177520
+Flags: A
+
+
+Packet #263
+
+Time since epoch: 1100903360, 940402
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3199
+Sequence number: 947177520
+Acknowledgement number: 885089488
+Flags: A
+
+
+Packet #264
+
+Time since epoch: 1100903360, 941716
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3199
+Sequence number: 947178980
+Acknowledgement number: 885089488
+Flags: A
+
+
+Packet #265
+
+Time since epoch: 1100903360, 941769
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3199
+Destination port: 80
+Sequence number: 885089488
+Acknowledgement number: 947180440
+Flags: A
+
+
+Packet #266
+
+Time since epoch: 1100903360, 942975
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3199
+Sequence number: 947180440
+Acknowledgement number: 885089488
+Flags: A
+
+
+Packet #267
+
+Time since epoch: 1100903360, 943067
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3199
+Destination port: 80
+Sequence number: 885089488
+Acknowledgement number: 947181900
+Flags: A
+
+
+Packet #268
+
+Time since epoch: 1100903360, 944280
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3199
+Sequence number: 947181900
+Acknowledgement number: 885089488
+Flags: A
+
+
+Packet #269
+
+Time since epoch: 1100903360, 945013
+Length: 824
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3199
+Sequence number: 947183360
+Acknowledgement number: 885089488
+Flags: FPA
+
+
+Packet #270
+
+Time since epoch: 1100903360, 945094
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3199
+Destination port: 80
+Sequence number: 885089488
+Acknowledgement number: 947184131
+Flags: A
+
+
+Packet #271
+
+Time since epoch: 1100903361, 43848
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3198
+Destination port: 80
+Sequence number: 885049069
+Acknowledgement number: 936185092
+Flags: FA
+
+
+Packet #272
+
+Time since epoch: 1100903361, 44274
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3198
+Sequence number: 936185092
+Acknowledgement number: 885049070
+Flags: A
+
+
+Packet #273
+
+Time since epoch: 1100903361, 62725
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3199
+Destination port: 80
+Sequence number: 885089488
+Acknowledgement number: 947184131
+Flags: FA
+
+
+Packet #274
+
+Time since epoch: 1100903361, 63142
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3199
+Sequence number: 947184131
+Acknowledgement number: 885089489
+Flags: A
+
+
+Packet #275
+
+Time since epoch: 1100903364, 987060
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886163810
+Acknowledgement number: 0
+Flags: S
+
+
+Packet #276
+
+Time since epoch: 1100903364, 987546
+Length: 62
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937638702
+Acknowledgement number: 886163811
+Flags: SA
+
+
+Packet #277
+
+Time since epoch: 1100903364, 987590
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886163811
+Acknowledgement number: 937638703
+Flags: A
+
+
+Packet #278
+
+Time since epoch: 1100903364, 995694
+Length: 691
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886163811
+Acknowledgement number: 937638703
+Flags: PA
+
+
+Packet #279
+
+Time since epoch: 1100903364, 996960
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937638703
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #280
+
+Time since epoch: 1100903364, 999927
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937638703
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #281
+
+Time since epoch: 1100903365, 1172
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937640163
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #282
+
+Time since epoch: 1100903365, 1225
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937641623
+Flags: A
+
+
+Packet #283
+
+Time since epoch: 1100903365, 3584
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937641623
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #284
+
+Time since epoch: 1100903365, 3652
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937643083
+Flags: A
+
+
+Packet #285
+
+Time since epoch: 1100903365, 4852
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937643083
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #286
+
+Time since epoch: 1100903365, 6181
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937644543
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #287
+
+Time since epoch: 1100903365, 6253
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937646003
+Flags: A
+
+
+Packet #288
+
+Time since epoch: 1100903365, 7420
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937646003
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #289
+
+Time since epoch: 1100903365, 7527
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937647463
+Flags: A
+
+
+Packet #290
+
+Time since epoch: 1100903365, 8701
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937647463
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #291
+
+Time since epoch: 1100903365, 10005
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937648923
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #292
+
+Time since epoch: 1100903365, 10042
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937650383
+Flags: A
+
+
+Packet #293
+
+Time since epoch: 1100903365, 11270
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937650383
+Acknowledgement number: 886164448
+Flags: PA
+
+
+Packet #294
+
+Time since epoch: 1100903365, 11353
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937651843
+Flags: A
+
+
+Packet #295
+
+Time since epoch: 1100903365, 12617
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937651843
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #296
+
+Time since epoch: 1100903365, 13864
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937653303
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #297
+
+Time since epoch: 1100903365, 13905
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937654763
+Flags: A
+
+
+Packet #298
+
+Time since epoch: 1100903365, 14416
+Length: 640
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937654763
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #299
+
+Time since epoch: 1100903365, 16204
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937655349
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #300
+
+Time since epoch: 1100903365, 16233
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937656809
+Flags: A
+
+
+Packet #301
+
+Time since epoch: 1100903365, 17454
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937656809
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #302
+
+Time since epoch: 1100903365, 18751
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937658269
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #303
+
+Time since epoch: 1100903365, 18790
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937659729
+Flags: A
+
+
+Packet #304
+
+Time since epoch: 1100903365, 20006
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937659729
+Acknowledgement number: 886164448
+Flags: PA
+
+
+Packet #305
+
+Time since epoch: 1100903365, 21313
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937661189
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #306
+
+Time since epoch: 1100903365, 21345
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937662649
+Flags: A
+
+
+Packet #307
+
+Time since epoch: 1100903365, 22568
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937662649
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #308
+
+Time since epoch: 1100903365, 23868
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937664109
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #309
+
+Time since epoch: 1100903365, 23901
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937665569
+Flags: A
+
+
+Packet #310
+
+Time since epoch: 1100903365, 25123
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937665569
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #311
+
+Time since epoch: 1100903365, 26424
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937667029
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #312
+
+Time since epoch: 1100903365, 26456
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937668489
+Flags: A
+
+
+Packet #313
+
+Time since epoch: 1100903365, 27680
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937668489
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #314
+
+Time since epoch: 1100903365, 28983
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937669949
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #315
+
+Time since epoch: 1100903365, 29015
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937671409
+Flags: A
+
+
+Packet #316
+
+Time since epoch: 1100903365, 30250
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937671409
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #317
+
+Time since epoch: 1100903365, 31543
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937672869
+Acknowledgement number: 886164448
+Flags: PA
+
+
+Packet #318
+
+Time since epoch: 1100903365, 31586
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937674329
+Flags: A
+
+
+Packet #319
+
+Time since epoch: 1100903365, 32796
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937674329
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #320
+
+Time since epoch: 1100903365, 34101
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937675789
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #321
+
+Time since epoch: 1100903365, 34140
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937677249
+Flags: A
+
+
+Packet #322
+
+Time since epoch: 1100903365, 35392
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937677249
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #323
+
+Time since epoch: 1100903365, 36678
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937678709
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #324
+
+Time since epoch: 1100903365, 36733
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937680169
+Flags: A
+
+
+Packet #325
+
+Time since epoch: 1100903365, 37960
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937680169
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #326
+
+Time since epoch: 1100903365, 39242
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937681629
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #327
+
+Time since epoch: 1100903365, 39309
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937683089
+Flags: A
+
+
+Packet #328
+
+Time since epoch: 1100903365, 40491
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937683089
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #329
+
+Time since epoch: 1100903365, 41806
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937684549
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #330
+
+Time since epoch: 1100903365, 41869
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937686009
+Flags: A
+
+
+Packet #331
+
+Time since epoch: 1100903365, 43048
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937686009
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #332
+
+Time since epoch: 1100903365, 44375
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937687469
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #333
+
+Time since epoch: 1100903365, 44454
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937688929
+Flags: A
+
+
+Packet #334
+
+Time since epoch: 1100903365, 45614
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937688929
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #335
+
+Time since epoch: 1100903365, 46911
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937690389
+Acknowledgement number: 886164448
+Flags: PA
+
+
+Packet #336
+
+Time since epoch: 1100903365, 46965
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937691849
+Flags: A
+
+
+Packet #337
+
+Time since epoch: 1100903365, 48176
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937691849
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #338
+
+Time since epoch: 1100903365, 49472
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937693309
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #339
+
+Time since epoch: 1100903365, 49531
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937694769
+Flags: A
+
+
+Packet #340
+
+Time since epoch: 1100903365, 50724
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937694769
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #341
+
+Time since epoch: 1100903365, 52026
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937696229
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #342
+
+Time since epoch: 1100903365, 52062
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937697689
+Flags: A
+
+
+Packet #343
+
+Time since epoch: 1100903365, 53318
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937697689
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #344
+
+Time since epoch: 1100903365, 54593
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937699149
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #345
+
+Time since epoch: 1100903365, 54658
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937700609
+Flags: A
+
+
+Packet #346
+
+Time since epoch: 1100903365, 55845
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937700609
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #347
+
+Time since epoch: 1100903365, 57162
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937702069
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #348
+
+Time since epoch: 1100903365, 57241
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937703529
+Flags: A
+
+
+Packet #349
+
+Time since epoch: 1100903365, 58410
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937703529
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #350
+
+Time since epoch: 1100903365, 59717
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937704989
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #351
+
+Time since epoch: 1100903365, 59790
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937706449
+Flags: A
+
+
+Packet #352
+
+Time since epoch: 1100903365, 60971
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937706449
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #353
+
+Time since epoch: 1100903365, 62270
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937707909
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #354
+
+Time since epoch: 1100903365, 62347
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937709369
+Flags: A
+
+
+Packet #355
+
+Time since epoch: 1100903365, 63513
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937709369
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #356
+
+Time since epoch: 1100903365, 64814
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937710829
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #357
+
+Time since epoch: 1100903365, 64840
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937712289
+Flags: A
+
+
+Packet #358
+
+Time since epoch: 1100903365, 66070
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937712289
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #359
+
+Time since epoch: 1100903365, 67388
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937713749
+Acknowledgement number: 886164448
+Flags: PA
+
+
+Packet #360
+
+Time since epoch: 1100903365, 67414
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937715209
+Flags: A
+
+
+Packet #361
+
+Time since epoch: 1100903365, 68631
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937715209
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #362
+
+Time since epoch: 1100903365, 117951
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937716669
+Flags: A
+
+
+Packet #363
+
+Time since epoch: 1100903365, 120351
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937716669
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #364
+
+Time since epoch: 1100903365, 121577
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937718129
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #365
+
+Time since epoch: 1100903365, 121630
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937719589
+Flags: A
+
+
+Packet #366
+
+Time since epoch: 1100903365, 122830
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937719589
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #367
+
+Time since epoch: 1100903365, 124141
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937721049
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #368
+
+Time since epoch: 1100903365, 124192
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937722509
+Flags: A
+
+
+Packet #369
+
+Time since epoch: 1100903365, 125401
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937722509
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #370
+
+Time since epoch: 1100903365, 126700
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937723969
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #371
+
+Time since epoch: 1100903365, 126745
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937725429
+Flags: A
+
+
+Packet #372
+
+Time since epoch: 1100903365, 127946
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937725429
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #373
+
+Time since epoch: 1100903365, 129279
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937726889
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #374
+
+Time since epoch: 1100903365, 129311
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937728349
+Flags: A
+
+
+Packet #375
+
+Time since epoch: 1100903365, 130508
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937728349
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #376
+
+Time since epoch: 1100903365, 131809
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937729809
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #377
+
+Time since epoch: 1100903365, 131841
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937731269
+Flags: A
+
+
+Packet #378
+
+Time since epoch: 1100903365, 133066
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937731269
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #379
+
+Time since epoch: 1100903365, 134366
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937732729
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #380
+
+Time since epoch: 1100903365, 134399
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937734189
+Flags: A
+
+
+Packet #381
+
+Time since epoch: 1100903365, 135625
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937734189
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #382
+
+Time since epoch: 1100903365, 136924
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937735649
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #383
+
+Time since epoch: 1100903365, 136960
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937737109
+Flags: A
+
+
+Packet #384
+
+Time since epoch: 1100903365, 138180
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937737109
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #385
+
+Time since epoch: 1100903365, 139483
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937738569
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #386
+
+Time since epoch: 1100903365, 139514
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937740029
+Flags: A
+
+
+Packet #387
+
+Time since epoch: 1100903365, 140742
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937740029
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #388
+
+Time since epoch: 1100903365, 142043
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937741489
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #389
+
+Time since epoch: 1100903365, 142076
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937742949
+Flags: A
+
+
+Packet #390
+
+Time since epoch: 1100903365, 143297
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937742949
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #391
+
+Time since epoch: 1100903365, 144610
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937744409
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #392
+
+Time since epoch: 1100903365, 144644
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937745869
+Flags: A
+
+
+Packet #393
+
+Time since epoch: 1100903365, 145895
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937745869
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #394
+
+Time since epoch: 1100903365, 147162
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937747329
+Acknowledgement number: 886164448
+Flags: PA
+
+
+Packet #395
+
+Time since epoch: 1100903365, 147216
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937748789
+Flags: A
+
+
+Packet #396
+
+Time since epoch: 1100903365, 148413
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937748789
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #397
+
+Time since epoch: 1100903365, 149713
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937750249
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #398
+
+Time since epoch: 1100903365, 149748
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937751709
+Flags: A
+
+
+Packet #399
+
+Time since epoch: 1100903365, 150969
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937751709
+Acknowledgement number: 886164448
+Flags: PA
+
+
+Packet #400
+
+Time since epoch: 1100903365, 152272
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937753169
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #401
+
+Time since epoch: 1100903365, 152307
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937754629
+Flags: A
+
+
+Packet #402
+
+Time since epoch: 1100903365, 153527
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937754629
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #403
+
+Time since epoch: 1100903365, 154849
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937756089
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #404
+
+Time since epoch: 1100903365, 154925
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937757549
+Flags: A
+
+
+Packet #405
+
+Time since epoch: 1100903365, 156092
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937757549
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #406
+
+Time since epoch: 1100903365, 157410
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937759009
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #407
+
+Time since epoch: 1100903365, 157484
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937760469
+Flags: A
+
+
+Packet #408
+
+Time since epoch: 1100903365, 158657
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937760469
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #409
+
+Time since epoch: 1100903365, 159942
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937761929
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #410
+
+Time since epoch: 1100903365, 159980
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937763389
+Flags: A
+
+
+Packet #411
+
+Time since epoch: 1100903365, 161199
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937763389
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #412
+
+Time since epoch: 1100903365, 162499
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937764849
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #413
+
+Time since epoch: 1100903365, 162557
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937766309
+Flags: A
+
+
+Packet #414
+
+Time since epoch: 1100903365, 163755
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937766309
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #415
+
+Time since epoch: 1100903365, 165060
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937767769
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #416
+
+Time since epoch: 1100903365, 165111
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937769229
+Flags: A
+
+
+Packet #417
+
+Time since epoch: 1100903365, 166315
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937769229
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #418
+
+Time since epoch: 1100903365, 167622
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937770689
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #419
+
+Time since epoch: 1100903365, 167681
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937772149
+Flags: A
+
+
+Packet #420
+
+Time since epoch: 1100903365, 168883
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937772149
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #421
+
+Time since epoch: 1100903365, 170190
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937773609
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #422
+
+Time since epoch: 1100903365, 170258
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937775069
+Flags: A
+
+
+Packet #423
+
+Time since epoch: 1100903365, 171428
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937775069
+Acknowledgement number: 886164448
+Flags: PA
+
+
+Packet #424
+
+Time since epoch: 1100903365, 172732
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937776529
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #425
+
+Time since epoch: 1100903365, 172769
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937777989
+Flags: A
+
+
+Packet #426
+
+Time since epoch: 1100903365, 174007
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937777989
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #427
+
+Time since epoch: 1100903365, 175303
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937779449
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #428
+
+Time since epoch: 1100903365, 175343
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937780909
+Flags: A
+
+
+Packet #429
+
+Time since epoch: 1100903365, 224101
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937780909
+Flags: A
+
+
+Packet #430
+
+Time since epoch: 1100903365, 226477
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937780909
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #431
+
+Time since epoch: 1100903365, 227702
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937782369
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #432
+
+Time since epoch: 1100903365, 227753
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937783829
+Flags: A
+
+
+Packet #433
+
+Time since epoch: 1100903365, 228958
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937783829
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #434
+
+Time since epoch: 1100903365, 230264
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937785289
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #435
+
+Time since epoch: 1100903365, 230299
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937786749
+Flags: A
+
+
+Packet #436
+
+Time since epoch: 1100903365, 231603
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937786749
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #437
+
+Time since epoch: 1100903365, 232842
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937788209
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #438
+
+Time since epoch: 1100903365, 232927
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937789669
+Flags: A
+
+
+Packet #439
+
+Time since epoch: 1100903365, 234081
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937789669
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #440
+
+Time since epoch: 1100903365, 235399
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937791129
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #441
+
+Time since epoch: 1100903365, 235471
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937792589
+Flags: A
+
+
+Packet #442
+
+Time since epoch: 1100903365, 236656
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937792589
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #443
+
+Time since epoch: 1100903365, 237950
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937794049
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #444
+
+Time since epoch: 1100903365, 238019
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937795509
+Flags: A
+
+
+Packet #445
+
+Time since epoch: 1100903365, 239213
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937795509
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #446
+
+Time since epoch: 1100903365, 240506
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937796969
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #447
+
+Time since epoch: 1100903365, 240573
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937798429
+Flags: A
+
+
+Packet #448
+
+Time since epoch: 1100903365, 241761
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937798429
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #449
+
+Time since epoch: 1100903365, 243062
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937799889
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #450
+
+Time since epoch: 1100903365, 243124
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937801349
+Flags: A
+
+
+Packet #451
+
+Time since epoch: 1100903365, 244316
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937801349
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #452
+
+Time since epoch: 1100903365, 245625
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937802809
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #453
+
+Time since epoch: 1100903365, 245660
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937804269
+Flags: A
+
+
+Packet #454
+
+Time since epoch: 1100903365, 246871
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937804269
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #455
+
+Time since epoch: 1100903365, 248175
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937805729
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #456
+
+Time since epoch: 1100903365, 248207
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937807189
+Flags: A
+
+
+Packet #457
+
+Time since epoch: 1100903365, 249431
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937807189
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #458
+
+Time since epoch: 1100903365, 250734
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937808649
+Acknowledgement number: 886164448
+Flags: PA
+
+
+Packet #459
+
+Time since epoch: 1100903365, 250765
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937810109
+Flags: A
+
+
+Packet #460
+
+Time since epoch: 1100903365, 251987
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937810109
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #461
+
+Time since epoch: 1100903365, 253294
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937811569
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #462
+
+Time since epoch: 1100903365, 253331
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937813029
+Flags: A
+
+
+Packet #463
+
+Time since epoch: 1100903365, 254544
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937813029
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #464
+
+Time since epoch: 1100903365, 255847
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937814489
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #465
+
+Time since epoch: 1100903365, 255878
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937815949
+Flags: A
+
+
+Packet #466
+
+Time since epoch: 1100903365, 257104
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937815949
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #467
+
+Time since epoch: 1100903365, 258404
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937817409
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #468
+
+Time since epoch: 1100903365, 258434
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937818869
+Flags: A
+
+
+Packet #469
+
+Time since epoch: 1100903365, 259663
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937818869
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #470
+
+Time since epoch: 1100903365, 260972
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937820329
+Acknowledgement number: 886164448
+Flags: PA
+
+
+Packet #471
+
+Time since epoch: 1100903365, 261003
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937821789
+Flags: A
+
+
+Packet #472
+
+Time since epoch: 1100903365, 262218
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937821789
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #473
+
+Time since epoch: 1100903365, 263525
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937823249
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #474
+
+Time since epoch: 1100903365, 263563
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937824709
+Flags: A
+
+
+Packet #475
+
+Time since epoch: 1100903365, 264775
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937824709
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #476
+
+Time since epoch: 1100903365, 266076
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937826169
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #477
+
+Time since epoch: 1100903365, 266108
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937827629
+Flags: A
+
+
+Packet #478
+
+Time since epoch: 1100903365, 267341
+Length: 1514
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937827629
+Acknowledgement number: 886164448
+Flags: A
+
+
+Packet #479
+
+Time since epoch: 1100903365, 268602
+Length: 1445
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937829089
+Acknowledgement number: 886164448
+Flags: FPA
+
+
+Packet #480
+
+Time since epoch: 1100903365, 268682
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937830481
+Flags: A
+
+
+Packet #481
+
+Time since epoch: 1100903365, 303621
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937830481
+Flags: A
+
+
+Packet #482
+
+Time since epoch: 1100903365, 542161
+Length: 54
+TCP/IP header
+Source IP: 10.1.1.101
+Destination IP: 10.1.1.1
+Source port: 3200
+Destination port: 80
+Sequence number: 886164448
+Acknowledgement number: 937830481
+Flags: FA
+
+
+Packet #483
+
+Time since epoch: 1100903365, 542586
+Length: 60
+TCP/IP header
+Source IP: 10.1.1.1
+Destination IP: 10.1.1.101
+Source port: 80
+Destination port: 3200
+Sequence number: 937830481
+Acknowledgement number: 886164449
+Flags: A
