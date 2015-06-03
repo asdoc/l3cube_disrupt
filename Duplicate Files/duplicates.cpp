@@ -11,6 +11,10 @@ using namespace std;
 #define MAXLEN 256
 
 ofstream files_list;
+int files_count = 0;
+map <string,int> files_map;
+map <int,string> file_id_map;
+
 char start_path[MAXLEN];
 
 map<string, set<string> > count_map; // Maps filename -> paths where file with same name exists
@@ -42,6 +46,9 @@ void search(DIR* directory, char path[]) {
 		else { 
 		// if file
 			files_list << path << cur_dir -> d_name << "\n";
+			files_map[((string)path + (string)cur_dir -> d_name)] = files_count;
+			file_id_map[files_count] = ((string)path + (string)cur_dir -> d_name);
+			files_count += 1;
 			string str_filename(cur_dir->d_name);
 			string str_filepath(string(path) + str_filename);
 			count_map[str_filename].insert(str_filepath);
@@ -55,7 +62,7 @@ void list_duplicates() {
 		if(x.second.size() > 1) { // if there exists more than 1 instance of the same file name
 			cout << x.first << ":\n";
 			for(auto y: x.second) {
-				cout << "    # " << y << "\n";
+				cout << "    # " << y << " - file_id: " << files_map[y] << "\n";
 			}
 		}
 	}
@@ -65,11 +72,22 @@ int main(int argc, char **argv) {
 	strcpy(start_path, argv[1]);
 	DIR *root;
 	root = opendir(start_path);
+	strcat(start_path,"/");
 	
 	files_list.open("files_list.txt", ios::out);
 	
 	search(root, start_path);
 	
 	list_duplicates();
+	
+	int file_id_to_delete = -1;
+	cout<<"Enter the file ids to delete: (-1 to exit):\n";
+	while(true){
+		cin>>file_id_to_delete;
+		if(file_id_to_delete == -1) {
+			break;
+		}
+		remove(file_id_map[file_id_to_delete].c_str());
+	}
 	
 }
