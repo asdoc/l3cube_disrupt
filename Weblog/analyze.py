@@ -3,6 +3,13 @@ from os import system
 
 pattern = '([\d\.]*) - - \[(.*)\] "([^"]*) ([^"]*) ([^"]*)" ([\d-]*) ([\d-]*) "([^"]*)" "([^"]*)"'
 
+'''
+	Function name: get_user_agents
+	Parameters:
+					None
+	Performs:
+					saves the number of requests per User Agent in file 'html/user_agents.html'
+'''
 def get_user_agents():
 	global pattern
 	weblog_data = open('weblog.txt','r').read().split('\n')[:-1]
@@ -34,6 +41,14 @@ def get_user_agents():
 	replaced_data = replaced_data.replace('{{name}}', 'User Agents Used ')
 	open('html/user_agents.html','w').write(replaced_data)
 
+'''
+	Function name: get_sites
+	Parameters:
+					None
+	Performs:
+					saves the number of requests per site in file 'html/sites.html'
+'''
+
 def get_sites():
 	global pattern
 	weblog_data = open('weblog.txt','r').read().split('\n')[:-1]
@@ -64,6 +79,14 @@ def get_sites():
 	replaced_data = open('html/base.html','r').read().replace('{{data}}', replace_string)
 	replaced_data = replaced_data.replace('{{name}}', 'Sites Browsed')
 	open('html/sites.html','w').write(replaced_data)
+
+'''
+	Function name: get_codes
+	Parameters:
+					None
+	Performs:
+					saves the number of requests per Response Codes in file 'html/codes.html'
+'''
 
 def get_codes():
 	codes = {}
@@ -101,6 +124,13 @@ def get_codes():
 	replaced_data = replaced_data.replace('{{name}}', 'Response Types')
 	open('html/codes.html','w').write(replaced_data)
 
+'''
+	Function name: get_dates
+	Parameters:
+					None
+	Performs:
+					saves the number of requests per Date in file 'html/dates.html'
+'''
 def get_dates():
 	global pattern
 	weblog_data = open('weblog.txt','r').read().split('\n')[:-1]
@@ -138,4 +168,8 @@ get_codes()
 get_dates()
 
 print "Computed Data, opening results..."
+
+'''
+	Opens default browser for displaying results
+'''
 system('xdg-open html/home.html &> /dev/null')
