@@ -5,6 +5,7 @@
  * Compilation: g++ -std=c++11 duplicates.cpp -o duplicates
  * Execution: ./duplicates <path to root of directory tree>
  */
+
 #include <dirent.h>
 #include <iostream>
 #include <fstream>
@@ -77,8 +78,9 @@ void list_duplicates() {
 
 int main(int argc, char **argv) {
 	if(argc < 2) {
-		cout << "Run command: ./a.out <starting path>\n";
+		cout << "Correct usage: ./a.out <starting path>\n";
 		cout << "Exiting program..\n";
+		return EXIT_FAILURE;
 	}
 	strcpy(start_path, argv[1]);
 	if(argv[1][strlen(argv[1])-1] != '/') {
