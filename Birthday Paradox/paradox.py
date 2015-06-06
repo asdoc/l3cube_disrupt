@@ -7,11 +7,11 @@ from random import randrange as rr
 # Else, function returns False
 
 def experiment(N):
-	cnt = [0 for i in xrange(365)]
+	birthdates = [0 for i in xrange(365)]
 	for i in xrange(N):
-		cnt[rr(365)] += 1
-	for x in cnt:
-		if x > 1:
+		birthdates[rr(365)] += 1
+	for count_birthdate in birthdates:
+		if count_birthdate > 1:
 			return True
 	return False
 
