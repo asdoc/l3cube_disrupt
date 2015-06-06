@@ -1,3 +1,10 @@
+/*
+ * This program can be used to:
+ *     # Find files within a directory tree, having the same name.
+ *     # Remove files from the directory tree.
+ * Compilation: g++ -std=c++11 duplicates.cpp -o duplicates
+ * Execution: ./duplicates <path to root of directory tree>
+ */
 #include <dirent.h>
 #include <iostream>
 #include <fstream>
@@ -8,7 +15,7 @@
 using namespace std;
 
 #define MAXFILES 1000
-#define MAXLEN 256
+#define MAXLEN 2048
 
 ofstream files_list;
 int files_count = 0;
@@ -69,10 +76,16 @@ void list_duplicates() {
 }
 
 int main(int argc, char **argv) {
+	if(argc < 2) {
+		cout << "Run command: ./a.out <starting path>\n";
+		cout << "Exiting program..\n";
+	}
 	strcpy(start_path, argv[1]);
+	if(argv[1][strlen(argv[1])-1] != '/') {
+		strcat(start_path,"/");
+	}
 	DIR *root;
 	root = opendir(start_path);
-	strcat(start_path,"/");
 	
 	files_list.open("files_list.txt", ios::out);
 	
