@@ -5,19 +5,30 @@
 #include <sys/types.h>
 #include <map>
 #include <set>
+#include <openssl/md5.h>
 using namespace std;
 
 #define MAXFILES 1000
-#define MAXLEN 256
+#define MAXLEN 2048
 
 ofstream files_list;
 int files_count = 0;
-map <string,int> files_map;
-map <int,string> file_id_map;
+map <string,int> files_map;						// path to file_id mapping
+map <int,string> file_id_map;					// file_id to path mapping
+map <string, set<string> > file_hash_map;		// file hash to set of file path
 
 char start_path[MAXLEN];
 
 map<string, set<string> > count_map; // Maps filename -> paths where file with same name exists
+
+string hash_md5_file(string file_path) {
+	// returns the md5 hash of the file
+	// TODO not yet complete
+	ifstream file_input(file_path, ios::in);
+	string file_data;
+	file_input>>file_data;
+	return file_data;
+}
 
 void search(DIR* directory, char path[]) {
 	struct dirent* cur_dir;
@@ -52,13 +63,15 @@ void search(DIR* directory, char path[]) {
 			string str_filename(cur_dir->d_name);
 			string str_filepath(string(path) + str_filename);
 			count_map[str_filename].insert(str_filepath);
+			string filehash = hash_md5_file(str_filepath);
+			file_hash_map[filehash].insert(str_filepath);
 		}
 	}
 }
 
 void list_duplicates() {
 	cout << "\n--\nListing duplicate files.\n--\n";
-	for(auto x: count_map) {
+	for(auto x: file_hash_map) {
 		if(x.second.size() > 1) { // if there exists more than 1 instance of the same file name
 			cout << x.first << ":\n";
 			for(auto y: x.second) {
@@ -89,5 +102,7 @@ int main(int argc, char **argv) {
 		}
 		remove(file_id_map[file_id_to_delete].c_str());
 	}
+	
+	hash_md5_file("s");
 	
 }
